@@ -1,0 +1,111 @@
+/* 
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles at the end of this file instead 
+of style.css so it is easier to update the theme. 
+Simply copy an existing style from style.css to this file, 
+and modify it to your liking.
+*/
+
+@font-face {font-family: BebasNeue;
+	src: url('/mert/wp-content/themes/mert/css/BebasNeue.otf')
+}
+
+#header {
+	padding: 20px 0;
+}
+h1 {
+	font-family: BebasNeue, Helvetica, Arial, sans-serif;
+}
+abbr {
+	border-bottom: none;
+	cursor: default;
+}
+ul.nav li a {
+	padding: 0.5em 2.7em;
+}
+
+ul.nav li.current-menu-item a {
+	color: #021e46;
+}
+.home #loopedSlider {
+	margin: -3.5em auto 0;
+	z-index: -1;
+}
+.home #loopedSlider .content {
+	display: none;
+}
+#Homepage_News h2 {
+	font-size: 20px;
+}
+#Homepage_News ul {
+	padding: 0;
+}
+#Homepage_News li {
+	list-style: none;
+}
+.single #main #connect, .single #main #comments, .single #main #respond {
+	display: none;
+}
+p.woo-sc-box, div.woo-sc-box {
+	border-width: 1px;
+}
+div.woo-sc-box p {
+	margin: 0;
+}
+#member-meta {
+	float: right;
+	margin-bottom: -19px;
+	color: #999;
+	position: relative;
+	z-index: 2;
+}
+#member-meta a {
+	color: #999;
+}
+#loading {
+	position: absolute;
+	top: 80px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 255, 255, 0.6) url('images/loading.gif') no-repeat 50% 25%;
+	z-index: 10;
+}
+.my-shifts {
+	list-style-type: disc;
+	margin-left: 2em;
+}
+.fc-event-inner .dots {
+	float: right;
+}
+.fc-event-inner .dots span {
+	font-size: 60px;
+	line-height: 19px;
+	margin-top: -5px;
+	margin-left: -5px;
+	float: right;
+}
+.open-for-users-rank .fc-event-title {
+	color: #222;
+}
+#my-schedule {
+	display: inline-block;
+	margin-top: 3px;
+	margin-right: 6px;
+}
+#header .nav-toggle {
+	margin: 0;
+	background: none;
+}
+#header .nav-toggle a, #header .nav-toggle a:hover, #header .nav-toggle:after {
+	color: #999;
+}
+.shortcode-tabs .ui-tabs-active {
+	background-color: #fff !important;
+}
+#tabs-dashboard .fc-event-inner .dots span {
+	margin-top: -4px !important;
+}

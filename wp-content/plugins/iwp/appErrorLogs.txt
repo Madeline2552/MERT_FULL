@@ -1,0 +1,2 @@
+2016-05-13 22:56:14 ERR: errno:2 (openssl_pkey_export(): cannot get key from parameter 1) file:C:\xampp\htdocs\mert\wp-content\plugins\iwp\includes\commonFunctions.php, line:549.
+2016-05-13 22:56:14 ERR: errno:2 (openssl_pkey_get_details() expects parameter 1 to be resource, boolean given) file:C:\xampp\htdocs\mert\wp-content\plugins\iwp\includes\commonFunctions.php, line:551.

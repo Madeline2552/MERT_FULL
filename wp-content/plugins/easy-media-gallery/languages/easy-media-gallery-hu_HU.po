@@ -1,0 +1,807 @@
+# Copyright (C) 2015 Easy Media Gallery
+# This file is distributed under the same license as the Easy Media Gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Media Gallery 1.3.53\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easy-media-"
+"gallery\n"
+"POT-Creation-Date: 2016-03-26 20:10+0700\n"
+"PO-Revision-Date: 2016-05-16 22:27+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: easy-media-gallery.php:212 includes/emg-settings.php:40
+#: includes/functions/functions.php:1103
+msgid "Settings"
+msgstr "Beállítások"
+
+#: easy-media-gallery.php:233
+msgid "Donate"
+msgstr "Adományozás"
+
+#: easy-media-gallery.php:234
+msgid "Tutorials"
+msgstr "Oktatóanyagok"
+
+#: easy-media-gallery.php:235
+msgid "Rate Us"
+msgstr "Értékeljük a szerzőt"
+
+#: easy-media-gallery.php:250
+msgctxt "post type general name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+#: easy-media-gallery.php:251
+msgctxt "post type singular name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+#: easy-media-gallery.php:252 includes/functions/functions.php:1081
+msgid "Add New Media"
+msgstr "Média létrehozása"
+
+#: easy-media-gallery.php:253
+msgid "Easy Media Item"
+msgstr "Easy Media pont"
+
+#: easy-media-gallery.php:254
+msgid "Edit Media"
+msgstr "Média szerkesztése"
+
+#: easy-media-gallery.php:255
+msgid "New Media"
+msgstr "új Média"
+
+#: easy-media-gallery.php:256
+msgid "View Media"
+msgstr "Kilátás Media"
+
+#: easy-media-gallery.php:257
+msgid "Search Media"
+msgstr "Keresés Media"
+
+#: easy-media-gallery.php:258
+msgid "No Media Found"
+msgstr "Nincs médiafájl"
+
+#: easy-media-gallery.php:259
+msgid "No Media Found In Trash"
+msgstr "Nem találtunk a lomtárban"
+
+#: easy-media-gallery.php:260
+msgid "Parent Media"
+msgstr "Parent Media"
+
+#: easy-media-gallery.php:261 easy-media-gallery.php:269
+msgid "Easy Media"
+msgstr "Easy Media"
+
+#: easy-media-gallery.php:327
+msgctxt "column name"
+msgid "Title"
+msgstr "Cím"
+
+#: easy-media-gallery.php:328
+msgid "Thumbnails"
+msgstr "Miniatűrök"
+
+#: easy-media-gallery.php:329
+msgid "Type"
+msgstr "Típus"
+
+#: easy-media-gallery.php:330 includes/functions/functions.php:1092
+#: includes/taxonomy.php:20
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: easy-media-gallery.php:331
+msgid "ID"
+msgstr "ID"
+
+#: easy-media-gallery.php:399
+msgid "None"
+msgstr "Semmi"
+
+#: easy-media-gallery.php:529 includes/functions/functions.php:1070
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: includes/easywidget.php:8
+msgid "Use this widget to display your media as a widget."
+msgstr "Használja ezt a widget megjelenítéséhez a média, mint a widget."
+
+#. Plugin Name of the plugin/theme
+#: includes/easywidget.php:11 includes/functions/functions.php:1060
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/emg-notice.php:16
+#, php-format
+msgid ""
+"Earn <span style=\"color: red;\">EXTRA MONEY</span> and get 30&#37; "
+"affiliate share from every sale you make!&nbsp;&nbsp;<a href=\"http://goo.gl/"
+"AZMFid\" target=\"_blank\">JOIN AFFILIATE NOW!</a><span style=\"float: right;"
+"\"><a href=\"%1$s\">Hide Notice</a><span>"
+msgstr ""
+
+#: includes/emg-settings.php:39
+msgid "Easy Media Gallery Settings"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid "N/A"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid " MB"
+msgstr ""
+
+#: includes/functions/functions.php:304
+msgid "Most Used"
+msgstr ""
+
+#: includes/functions/functions.php:328
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+#: includes/functions/functions.php:614 includes/functions/functions.php:628
+#: includes/functions/functions.php:656 includes/functions/functions.php:1114
+msgid "Sorter"
+msgstr "Válogató"
+
+#: includes/functions/functions.php:629
+msgid ""
+"Simply drag the Media up or down and they will be saved in that order. Media "
+"at the top will appear first."
+msgstr ""
+"Egyszerűen húzza a Media felfelé vagy lefelé, és lesznek mentve, ebben a "
+"sorrendben. Média tetején jelennek meg először."
+
+#: includes/functions/functions.php:633 includes/functions/functions.php:659
+msgid "Sort Media"
+msgstr "Rendezés Media"
+
+#: includes/functions/functions.php:660
+#, php-format
+msgid "No items found, why not %screate one%s?\t"
+msgstr ""
+
+#: includes/functions/functions.php:715
+msgid "Easy Media Gallery (Lite) "
+msgstr ""
+
+#: includes/functions/functions.php:859
+msgid "<img src=\""
+msgstr ""
+
+#: includes/functions/functions.php:924
+msgid ""
+"We recommend you to enable plugin Auto Update so you will get the latest "
+"features and other important updates of Easy Media Gallery.<br />Click <a "
+"href=\"#\"><strong><span id=\"doautoupdate\">here</span></strong></a> to "
+"enable Auto Update."
+msgstr ""
+"Javasoljuk, hogy a bővítmény engedélyezése automatikus frissítés, így lesz a "
+"legújabb funkciók és más fontos frissítéseket Easy Media Gallery. <br /> "
+"Kattintson <a href=\"#\"><strong><span id=\"doautoupdate\">ide</span></"
+"strong></a> , hogy engedélyezze az Automatikus frissítés."
+
+#: includes/functions/functions.php:1125 includes/pages/emg-welcome.php:337
+msgid "Demo"
+msgstr "Demó"
+
+#: includes/functions/functions.php:1136
+msgid "Free Install Plugins"
+msgstr "Bővítmény telepítése"
+
+#: includes/functions/functions.php:1147
+msgid "Premium Plugin"
+msgstr "Prémium Plugin"
+
+#: includes/functions/functions.php:1180
+msgid "UPGRADE PRO VERSION"
+msgstr "FRISSÍTÉS Pro verzió"
+
+#: includes/functions/functions.php:1212 includes/pages/emg-addons.php:35
+#: includes/pages/emg-featured.php:25
+msgid ""
+"There was an error retrieving the list from the server. Please try again "
+"later."
+msgstr "Hiba letölti a listát a szerver. Kérlek, próbáld újra később."
+
+#: includes/functions/functions.php:1248
+msgid ""
+"Fill your Affiliate Account Email or Payment Email and press Connect button "
+"to start earn extra Money with us!"
+msgstr ""
+"Töltsük meg a Partner fiók e-mail vagy e-mail előleg, majd nyomja meg a "
+"Csatlakozás gombot az extra pénzt velünk!"
+
+#: includes/functions/functions.php:1264
+msgid "Account Email or Payment Email"
+msgstr "Fiók e-mail vagy e-mail előleg"
+
+#: includes/functions/functions.php:1289
+msgid "How does it work?"
+msgstr "Hogyan is működik ez?"
+
+#: includes/functions/functions.php:1291
+msgid ""
+"After successfully registered with our Affiliate program what you have to do "
+"just :"
+msgstr ""
+"Miután sikeresen regisztrált a Partnerprogram mit kell csinálni, hogy csak:"
+
+#: includes/functions/functions.php:1292
+msgid ""
+"Fill your Affiliate Account Email or Payment Email in field above and Hit "
+"Connect button"
+msgstr ""
+"Töltsük meg a Partner fiók E-mail vagy fizetés-mailben a fenti mezőbe, és "
+"Hit Connect gombra"
+
+#: includes/functions/functions.php:1293
+msgid "After connected you will see green connected status"
+msgstr "Miután csatlakozik látni fogja a zöld csatlakoztatott állapotát"
+
+#: includes/functions/functions.php:1294
+msgid ""
+"Check your gallery and you will find your affiliate link in the bottom of "
+"your gallery like in the right side screenshot"
+msgstr ""
+"Ellenőrizze a galériát, és meg fogja találni a affiliate link az alján a "
+"galéria, mint a jobb oldali képen"
+
+#: includes/functions/functions.php:1295
+msgid ""
+"Now when individuals follow that link and subsequently make a purchase, you "
+"will be credited for the transaction and you will receive a payout"
+msgstr ""
+"Most, amikor az egyének a link követésére, majd a vásárlást, akkor kerül "
+"jóváírásra az ügylet, és akkor kap egy kifizetési"
+
+#: includes/functions/functions.php:1296
+msgid "Congratulations! You are ready to start to earn extra money with us :)"
+msgstr "Gratulálok! Ön készen áll, hogy plusz pénzt keresni velünk :)"
+
+#: includes/metaboxes.php:10
+msgid "Media Categories"
+msgstr "Média kategóriák"
+
+#: includes/metaboxes.php:14
+msgid "AMAZING Pro Version DEMO"
+msgstr "CSODÁLATOS Pro verzió DEMO"
+
+#: includes/metaboxes.php:15
+msgid "Upgrade to Pro Version"
+msgstr "Frissítés a Pro változat"
+
+#: includes/metaboxes.php:769
+msgid "Media Options"
+msgstr "Média opciók"
+
+#: includes/metaboxes.php:777
+msgid "Media Type"
+msgstr "Média Típus"
+
+#: includes/metaboxes.php:778
+msgid "Choose the item type."
+msgstr "Válassza ki az elemet típusát."
+
+#: includes/metaboxes.php:793
+msgid "Video Options"
+msgstr "Videó opciók"
+
+#: includes/metaboxes.php:794
+msgid "Paste video URL to field below."
+msgstr "Paste videó URL mezőbe alább."
+
+#: includes/metaboxes.php:802
+msgid "Video URL"
+msgstr "Videó link"
+
+#: includes/metaboxes.php:812
+msgid "Video Size"
+msgstr "Videó mérete"
+
+#: includes/metaboxes.php:813
+msgid "If ON, video size will use the default settings on the control panel."
+msgstr ""
+"Ha bekapcsolt, videó mérete, akkor az alapértelmezett beállításokat a "
+"vezérlőpulton."
+
+#: includes/metaboxes.php:830
+msgid "Select Multiple Images"
+msgstr "Több kép kiválasztásához"
+
+#: includes/metaboxes.php:831
+msgid ""
+"Click Add Images button to select image from your Wordpress Media Library."
+msgstr ""
+"Kattintson Képek hozzáadása gomb segítségével válassza képet a Wordpress "
+"Media Library."
+
+#: includes/metaboxes.php:839
+msgid "<span class=\"gtips\">Tips:</span>"
+msgstr ""
+
+#: includes/metaboxes.php:840
+msgid ""
+"<ul class=\"gtipslist\"><li>Use <b>Ctrl + Click</b> on each image to select "
+"multiple images at once.</li><li>You also can drag and drop images to re-"
+"order.</li><li>Click on image to edit title/subtitle ( <i>Pro Version only</"
+"i> )</li><li class=\"messivideo\" data-yvid=\"https://www.youtube.com/embed/"
+"H1Z3fidyEbE?rel=0\">Tutorial How to Create Gallery</li>\n"
+"<li class=\"messivideo\" data-yvid=\"https://www.youtube.com/embed/"
+"pjHvRoV2Bn8?rel=0\">Tutorial How to Create Album</li></ul>"
+msgstr ""
+
+#: includes/metaboxes.php:851 includes/metaboxes.php:917
+msgid "Full-size image control"
+msgstr "Teljes méretű kép kontroll"
+
+#: includes/metaboxes.php:852 includes/metaboxes.php:918
+msgid ""
+"If ON, image which exceeds the specified size limit will be automatically "
+"resized. You can change image size limit through plugin control panel."
+msgstr ""
+"Ha A, kép, amely túllépi a meghatározott mérethatár automatikusan "
+"átméretezi. Meg lehet változtatni a kép mérete maximum keresztül plugint "
+"vezérlőpulton."
+
+#: includes/metaboxes.php:860
+msgid "Use information of each image"
+msgstr "Használja információkat az egyes képek"
+
+#: includes/metaboxes.php:861
+msgid ""
+"If ON, each image will use individual title based on Wordpress Media "
+"informations. If OFF, this gallery will use title, sub title and description "
+"from Media Information below."
+msgstr ""
+"Ha a minden képhez használni egyéni címet alapján Wordpress Media "
+"információk. Ha OFF, ez a galériában fogja használni cím, al címet és "
+"leírást a Média alábbi információ."
+
+#: includes/metaboxes.php:876
+msgid "Audio Options"
+msgstr "Audio Opciói"
+
+#: includes/metaboxes.php:877
+msgid ""
+"Upload audio or paste audio URL on field below. Is it possible to use audio "
+"external source."
+msgstr ""
+"Töltsd fel audio- vagy beillesztés audio URL-mezőben. Meg lehet-e használni "
+"audio külső forrásból."
+
+#: includes/metaboxes.php:885
+msgid "Audio Path"
+msgstr "Audio Path"
+
+#: includes/metaboxes.php:901
+msgid "Select Image"
+msgstr "Kép kiválasztása"
+
+#: includes/metaboxes.php:902
+msgid "You can upload image with supported file types: jpg, jpeg, gif, png."
+msgstr "Tölthetsz fel képet támogatott fájltípusok: jpg, jpeg, gif, png."
+
+#: includes/metaboxes.php:908
+msgid "Image URL"
+msgstr "Kép webcíme"
+
+#: includes/metaboxes.php:909
+msgid "Select or upload your image."
+msgstr "Válassza ki vagy töltse fel a képet."
+
+#: includes/metaboxes.php:933
+msgid "Media Information"
+msgstr "média adatok"
+
+#: includes/metaboxes.php:934
+msgid "Input basic info for this media."
+msgstr "Input alapinformációk erre a médiában."
+
+#: includes/metaboxes.php:940
+msgid "Media Title"
+msgstr "Média Cím"
+
+#: includes/metaboxes.php:941
+msgid "Enter a media title."
+msgstr "Adjon meg egy média cím."
+
+#: includes/metaboxes.php:949
+msgid "Media Subtitle"
+msgstr "Média Felirat"
+
+#: includes/metaboxes.php:950
+msgid "You can use this field for (ex: author, title track, etc.)"
+msgstr "Használhatja ezen a területen (pl: szerző, cím sáv, stb)"
+
+#: includes/pages/emg-demo.php:17
+msgid "Check it Out!"
+msgstr "Próbáld ki!"
+
+#: includes/pages/emg-demo.php:23
+msgid "Just Like, Share or Subscribe and Get Free Updates"
+msgstr "Just Like, megosztása vagy Iratkozzon fel, és ingyenes frissítések"
+
+#: includes/pages/emg-demo.php:50
+msgid "Video Tutorials"
+msgstr "Oktató videó"
+
+#: includes/pages/emg-demo.php:120
+msgid "Share Easy Media Gallery"
+msgstr "Ossza Easy Media Gallery"
+
+#: includes/pages/emg-demo.php:130
+msgid "New Plugin, check it out!"
+msgstr "Új Plugin, nézd meg!"
+
+#: includes/pages/emg-freeplugins.php:164
+#, php-format
+msgid "By %s"
+msgstr "Írta %s"
+
+#: includes/pages/emg-freeplugins.php:176
+#, php-format
+msgid "Install %s now"
+msgstr "Telepítse %s most"
+
+#: includes/pages/emg-freeplugins.php:176
+msgid "Install Now"
+msgstr "Telepítés most"
+
+#: includes/pages/emg-freeplugins.php:183
+#, php-format
+msgid "Update %s now"
+msgstr "Frissítés %s most"
+
+#: includes/pages/emg-freeplugins.php:183
+msgid "Update Now"
+msgstr "Frissítés most"
+
+#: includes/pages/emg-freeplugins.php:189
+msgid "This plugin is already installed and is up to date"
+msgstr "Ez a plugin már telepítve van, és naprakész"
+
+#: includes/pages/emg-freeplugins.php:189
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Telepített"
+
+#: includes/pages/emg-freeplugins.php:198
+#, php-format
+msgid "More information about %s"
+msgstr "További információk:%s"
+
+#: includes/pages/emg-freeplugins.php:198
+msgid "More Details"
+msgstr "Bővebben"
+
+#: includes/pages/emg-freeplugins.php:266
+msgid "Last Updated:"
+msgstr "Utolsó Frissítés:"
+
+#: includes/pages/emg-freeplugins.php:267
+#, php-format
+msgid "%s ago"
+msgstr "%s ezelőtt"
+
+#: includes/pages/emg-freeplugins.php:271
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "%s download"
+msgstr[1] "%s downloads"
+
+#: includes/pages/emg-freeplugins.php:276
+msgid "Untested with your version of WordPress"
+msgstr "Kipróbálatlan az Ön verziója WordPress"
+
+#: includes/pages/emg-freeplugins.php:278
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Összeegyeztethetetlen</strong> a változat WordPress"
+
+#: includes/pages/emg-freeplugins.php:280
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Kompatibilis a</strong> WordPress"
+
+#: includes/pages/emg-pricing.php:7
+msgid "UPGRADE to PRO"
+msgstr "Frissítés a Pro változatra"
+
+#: includes/pages/emg-pricing.php:37
+msgid "Comparison"
+msgstr "Összehasonlítás"
+
+#: includes/pages/emg-welcome.php:318
+msgid "What's New"
+msgstr "Mi újság"
+
+#: includes/pages/emg-welcome.php:321
+msgid "Getting Started"
+msgstr "Kezdő lépések"
+
+#: includes/pages/emg-welcome.php:329
+msgid "Free Plugins"
+msgstr "Ingyenes Dugó"
+
+#: includes/pages/emg-welcome.php:333
+msgid "Premium Plugins"
+msgstr "Prémium Dugó"
+
+#: includes/pages/emg-welcome.php:341
+msgid ""
+"<span class=\"emg-dollar\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra Money</"
+"span>"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:361 includes/pages/emg-welcome.php:472
+#: includes/pages/emg-welcome.php:533 includes/pages/emg-welcome.php:562
+#: includes/pages/emg-welcome.php:593 includes/pages/emg-welcome.php:623
+#: includes/pages/emg-welcome.php:654
+msgid "Welcome to "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:362 includes/pages/emg-welcome.php:445
+#: includes/pages/emg-welcome.php:473 includes/pages/emg-welcome.php:534
+#: includes/pages/emg-welcome.php:563 includes/pages/emg-welcome.php:594
+#: includes/pages/emg-welcome.php:624 includes/pages/emg-welcome.php:655
+msgid "Thank you for installing "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:363 includes/pages/emg-welcome.php:446
+#: includes/pages/emg-welcome.php:474 includes/pages/emg-welcome.php:535
+#: includes/pages/emg-welcome.php:564 includes/pages/emg-welcome.php:595
+#: includes/pages/emg-welcome.php:625 includes/pages/emg-welcome.php:656
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:370
+msgid "New Welcome Page"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:374
+msgid ""
+"Version 1.3.29 introduces a comprehensive welcome page interface. The easy "
+"way to get important informations about this product and other related "
+"plugins."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:376
+msgid ""
+"In this page, you will find four important Tabs named What's New, Getting "
+"Started, Addons, Free Plugins, Premium Plugins and Demo."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:382
+msgid "ADDONS"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:386
+msgid ""
+"Need some Pro version features to be applied in your Free version? What you "
+"have to do just go to <strong>Addons</strong> page and choose any Addons "
+"that you want to install. All listed addons are Premium version."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:392
+msgid "Additional Updates"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:398
+msgid "Language Packs Update"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:399
+msgid ""
+"We've improved Language Packs to compatible with <a href=\"https://translate."
+"wordpress.org/projects/wp-plugins/easy-media-gallery\" target=\"_blank"
+"\">translate.wordpress.org</a> translation system"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:405
+msgid "CSS Clean and Optimization"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:406
+msgid ""
+"We've improved some css class to make your gallery for look fancy and better."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:412
+msgid "Disable Notifications"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:413
+msgid ""
+"In this version you will no longer see some annoying notifications in top of "
+"gallery editor page. Thanks for who suggested it."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:419
+msgid "Improved Some Core Function"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:420
+msgid ""
+" Some functions has been improved to be more robust and fast so you can "
+"generate your gallery/albums only in seconds."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:427
+msgid "View the Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:444
+msgid " Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:451
+msgid "Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:478
+msgid ""
+"There are no complicated instructions for using Easy Media Gallery because "
+"this plugin designed to make all easy. Please watch the following video and "
+"we believe that you will easily to understand it just in minutes :"
+msgstr ""
+"Nincsenek bonyolult instrukciókat az Easy Media Gallery, mert ez a plugin "
+"célja, hogy minden egyszerű. Kérjük, nézze meg a következő videót, és úgy "
+"gondoljuk, hogy akkor könnyen érthető, hogy percek alatt:"
+
+#: includes/pages/emg-welcome.php:482
+msgid "How to Create Simple Photo Albums"
+msgstr "Hogyan lehet egyszerű Fotóalbumok"
+
+#: includes/pages/emg-welcome.php:484
+msgid "How to Create Simple Gallery"
+msgstr "Hogyan lehet egyszerű Galéria"
+
+#: includes/pages/emg-welcome.php:486
+msgid "Video Tutorials on Youtube Channel"
+msgstr "Oktató videó a Youtube-on Channel"
+
+#: includes/pages/emg-welcome.php:493
+msgid "Need Help?"
+msgstr "Segíthetünk?"
+
+#: includes/pages/emg-welcome.php:497
+msgid "Phenomenal Support"
+msgstr "Fenomenális támogatása"
+
+#: includes/pages/emg-welcome.php:498
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"wordpress.org/support/plugin/easy-media-gallery\" target=\"_blank\">support "
+"forums</a>."
+msgstr ""
+"Mindent megteszünk, hogy a legjobb támogatást tudunk. Ha hibába ütközik, "
+"vagy kérdése van, tegye fel kérdését a <a href=\"https://wordpress.org/"
+"support/plugin/easy-media-gallery\" target=\"_blank\">támogatási fórumok</a>."
+
+#: includes/pages/emg-welcome.php:499
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:500
+msgid ""
+"Just upgrade to <a target=\"_blank\" href=\"https://ghozy.link/eqiz9\">Pro "
+"version</a> and you will get Priority Support are there for customers that "
+"need faster and/or more in-depth assistance."
+msgstr ""
+"Csak feljavít-hoz <a target=\"_blank\" href=\"https://ghozy.link/"
+"eqiz9\">profi változat</a> , és kiemelt támogatást kap gyorsabb vagy "
+"részletesebb segítséget igénylő ügyfelek vannak."
+
+#: includes/pages/emg-welcome.php:506
+msgid "Stay Up to Date"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:510
+msgid "Get Notified of Addons Releases"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:511
+msgid "New Addons that make "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:665
+msgid "DEMO ( Video )"
+msgstr "DEMO (videó)"
+
+#: includes/pages/emg-welcome.php:666
+msgid ""
+"This plugin comes with instructional training videos that walk you through "
+"every aspect of setting up your new media gallery. We recommend to following "
+"these videos to create new media. This user manual is only intended to be a "
+"reference guide."
+msgstr ""
+"Ez a plugin jön oktató oktatóvideókat végigvezeti minden szempontból "
+"beállította új média galériában. Javasoljuk, hogy követi ezeket a videókat, "
+"hogy új média. Ezt a használati utasítást csak arra szolgál, hogy egy kalauz."
+
+#: includes/pages/emg-welcome.php:690
+msgid "No valid changelog was found."
+msgstr "Nincs érvényes changelog találtak."
+
+#: includes/taxonomy.php:10
+msgctxt "taxonomy general name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/taxonomy.php:11
+msgctxt "taxonomy singular name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/taxonomy.php:12
+msgctxt "easy-media-gallery"
+msgid "Add New Category"
+msgstr "Új kategória hozzáadása"
+
+#: includes/taxonomy.php:13
+msgid "Add New Category"
+msgstr "Új kategória hozzáadása"
+
+#: includes/taxonomy.php:14
+msgid "Edit Category"
+msgstr "Kategória szerkesztése"
+
+#: includes/taxonomy.php:15
+msgid "New Category"
+msgstr "Új kategória"
+
+#: includes/taxonomy.php:16
+msgid "View Category"
+msgstr "Kategória megtekintése"
+
+#: includes/taxonomy.php:17
+msgid "Search Category"
+msgstr "Kategória keresés"
+
+#: includes/taxonomy.php:18
+msgid "No Category found"
+msgstr "Nem találtam Kategória"
+
+#: includes/taxonomy.php:19
+msgid "No Category found in Trash"
+msgstr "Nem Kategória található Kuka"
+
+#: includes/taxonomy.php:27
+msgid "Emediagallery"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.ghozylab.com/plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy Media Gallery (Lite) - Displaying your gallery, video (MP4, Youtube, "
+"Vimeo) and audio mp3 in elegant and fancy lightbox with very easy. Allows "
+"you to customize all media to get it looking exactly what you want. <a href="
+"\"https://ghozy.link/q65dp\" target=\"_blank\"><strong> Upgrade to Pro "
+"Version Now</strong></a> and get a tons of awesome features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GhozyLab, Inc."
+msgstr ""
+
+#~ msgid "Addons"
+#~ msgstr "Kiegészítők"

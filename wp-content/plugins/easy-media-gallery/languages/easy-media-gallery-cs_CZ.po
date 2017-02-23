@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Media Gallery v1.2.15\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-26 20:16+0700\n"
+"PO-Revision-Date: 2016-05-03 09:17+0700\n"
+"Last-Translator: JaLoMe <janloewe@seznam.cz>\n"
+"Language-Team: JaLoMe <janloewe@seznam.cz>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ easmedia
+#: easy-media-gallery.php:212 includes/emg-settings.php:40
+#: includes/functions/functions.php:1141
+msgid "Settings"
+msgstr "Nastavení"
+
+#: easy-media-gallery.php:233
+msgid "Donate"
+msgstr "Přispět"
+
+#: easy-media-gallery.php:234
+msgid "Tutorials"
+msgstr "Tutoriály"
+
+#: easy-media-gallery.php:235
+msgid "Rate Us"
+msgstr "Ohodnoťte nás"
+
+#: easy-media-gallery.php:250
+msgctxt "post type general name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+#: easy-media-gallery.php:251
+msgctxt "post type singular name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+# @ easmedia
+#: easy-media-gallery.php:252 includes/functions/functions.php:1119
+msgid "Add New Media"
+msgstr "Přidávání nových médií"
+
+# @ easmedia
+#: easy-media-gallery.php:253
+msgid "Easy Media Item"
+msgstr "Easy Media položky"
+
+# @ easmedia
+#: easy-media-gallery.php:254
+msgid "Edit Media"
+msgstr "Editovat Media"
+
+# @ easmedia
+#: easy-media-gallery.php:255
+msgid "New Media"
+msgstr "Nová média"
+
+# @ easmedia
+#: easy-media-gallery.php:256
+msgid "View Media"
+msgstr "Zobrazit média"
+
+# @ easmedia
+#: easy-media-gallery.php:257
+msgid "Search Media"
+msgstr "Vyhledat Media"
+
+# @ easmedia
+#: easy-media-gallery.php:258
+msgid "No Media Found"
+msgstr "Žádné médium nenalezeno"
+
+# @ easmedia
+#: easy-media-gallery.php:259
+msgid "No Media Found In Trash"
+msgstr "Žádné médium nenalezeno v koši"
+
+# @ easmedia
+#: easy-media-gallery.php:260
+msgid "Parent Media"
+msgstr "Mateřské Media"
+
+# @ easmedia
+#: easy-media-gallery.php:261 easy-media-gallery.php:269
+msgid "Easy Media"
+msgstr "Easy Media"
+
+# @ easmedia
+#: easy-media-gallery.php:327
+msgctxt "column name"
+msgid "Title"
+msgstr "Název"
+
+# @ easmedia
+#: easy-media-gallery.php:328
+msgid "Thumbnails"
+msgstr "Náhledy"
+
+# @ easmedia
+#: easy-media-gallery.php:329
+msgid "Type"
+msgstr "Druh"
+
+# @ easmedia
+# @ default
+#: easy-media-gallery.php:330 includes/functions/functions.php:1130
+#: includes/taxonomy.php:20
+msgid "Categories"
+msgstr "Kategorie"
+
+# @ easmedia
+#: easy-media-gallery.php:331
+msgid "ID"
+msgstr "ID"
+
+# @ easmedia
+#: easy-media-gallery.php:399
+msgid "None"
+msgstr "Není"
+
+#: easy-media-gallery.php:529 includes/functions/functions.php:1108
+msgid "Overview"
+msgstr "Přehled"
+
+#: includes/easywidget.php:8
+msgid "Use this widget to display your media as a widget."
+msgstr "Použijte tento widget zobrazit vaše média jako widget."
+
+#: includes/easywidget.php:11 includes/functions/functions.php:1098
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/emg-notice.php:16
+#, php-format
+msgid ""
+"Earn <span style=\"color: red;\">EXTRA MONEY</span> and get 30&#37; "
+"affiliate share from every sale you make!&nbsp;&nbsp;<a href=\"http://goo.gl/"
+"AZMFid\" target=\"_blank\">JOIN AFFILIATE NOW!</a><span style=\"float: right;"
+"\"><a href=\"%1$s\">Hide Notice</a><span>"
+msgstr ""
+
+# @ easmedia
+#: includes/emg-settings.php:39
+msgid "Easy Media Gallery Settings"
+msgstr "Nastavení Galerie Easy Media"
+
+#: includes/functions/functions.php:73
+msgid "N/A"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid " MB"
+msgstr ""
+
+# @ default
+#: includes/functions/functions.php:304
+msgid "Most Used"
+msgstr "Nejčastěji používané"
+
+# @ default
+#: includes/functions/functions.php:328
+#, php-format
+msgid "+ %s"
+msgstr "+ %s"
+
+# @ easmedia
+#: includes/functions/functions.php:614 includes/functions/functions.php:628
+#: includes/functions/functions.php:656 includes/functions/functions.php:1152
+msgid "Sorter"
+msgstr "Řazení"
+
+# @ easmedia
+#: includes/functions/functions.php:629
+msgid ""
+"Simply drag the Media up or down and they will be saved in that order. Media "
+"at the top will appear first."
+msgstr ""
+"Jednoduše přetáhněte Media nahoru nebo dolů a budou uloženy v tomto pořadí. "
+"Média v horní části se objeví jako první."
+
+# @ easmedia
+#: includes/functions/functions.php:633 includes/functions/functions.php:659
+msgid "Sort Media"
+msgstr "Seřadit Media"
+
+# @ easmedia
+#: includes/functions/functions.php:660
+#, php-format
+msgid "No items found, why not %screate one%s?\t"
+msgstr "Nebyly nalezeny žádné položky, why not %screate one%s?\\\t"
+
+#: includes/functions/functions.php:715
+msgid "Easy Media Gallery (Lite) "
+msgstr ""
+
+#: includes/functions/functions.php:897
+msgid "<img src=\""
+msgstr ""
+
+#: includes/functions/functions.php:962
+msgid ""
+"We recommend you to enable plugin Auto Update so you will get the latest "
+"features and other important updates of Easy Media Gallery.<br />Click <a "
+"href=\"#\"><strong><span id=\"doautoupdate\">here</span></strong></a> to "
+"enable Auto Update."
+msgstr ""
+"Doporučujeme vám povolit Earth automatické aktualizace, takže budete mít "
+"nejnovější funkce a další důležité aktualizace Easy Media Gallery. <br /> "
+"Klikněte <a href=\"#\"><strong><span id=\"doautoupdate\">zde</span></"
+"strong></a> pro umožnění Auto Update."
+
+#: includes/functions/functions.php:1163 includes/pages/emg-welcome.php:337
+msgid "Demo"
+msgstr "Demo"
+
+#: includes/functions/functions.php:1174
+msgid "Free Install Plugins"
+msgstr "Instalovat pluginy"
+
+#: includes/functions/functions.php:1185
+msgid "Premium Plugin"
+msgstr "Premium Plugin"
+
+#: includes/functions/functions.php:1218
+msgid "UPGRADE PRO VERSION"
+msgstr "UPGRADE PRO VERZE"
+
+#: includes/functions/functions.php:1250 includes/pages/emg-addons.php:35
+#: includes/pages/emg-featured.php:25
+msgid ""
+"There was an error retrieving the list from the server. Please try again "
+"later."
+msgstr ""
+"Došlo k chybě při načítání seznamu ze serveru. Prosím zkuste to znovu "
+"později."
+
+#: includes/functions/functions.php:1286
+msgid ""
+"Fill your Affiliate Account Email or Payment Email and press Connect button "
+"to start earn extra Money with us!"
+msgstr ""
+"Naplňte své tlačítko partnerský e-mailový účet nebo platba E-mail a "
+"stiskněte tlačítko Připojit začít vydělávat peníze navíc s námi!"
+
+#: includes/functions/functions.php:1302
+msgid "Account Email or Payment Email"
+msgstr "E-mailový účet nebo platba e-mail"
+
+#: includes/functions/functions.php:1327
+msgid "How does it work?"
+msgstr "Jak to celé funguje?"
+
+#: includes/functions/functions.php:1329
+msgid ""
+"After successfully registered with our Affiliate program what you have to do "
+"just :"
+msgstr "Po úspěšném přihlášení k našemu Partnerský program, co máte dělat jen:"
+
+#: includes/functions/functions.php:1330
+msgid ""
+"Fill your Affiliate Account Email or Payment Email in field above and Hit "
+"Connect button"
+msgstr ""
+"Naplňte svůj partnerský e-mailový účet či platební E-mail v poli výše a Hit "
+"tlačítko Připojit"
+
+#: includes/functions/functions.php:1331
+msgid "After connected you will see green connected status"
+msgstr "Po připojen uvidíte zelené ipojenych"
+
+#: includes/functions/functions.php:1332
+msgid ""
+"Check your gallery and you will find your affiliate link in the bottom of "
+"your gallery like in the right side screenshot"
+msgstr ""
+"Zkontrolujte si galerii a najdete váš partnerský odkaz v dolní části galerie "
+"jako v pravé straně obrazovky"
+
+#: includes/functions/functions.php:1333
+msgid ""
+"Now when individuals follow that link and subsequently make a purchase, you "
+"will be credited for the transaction and you will receive a payout"
+msgstr ""
+"Nyní, když jednotlivci následovat tento odkaz a následně provést nákup, bude "
+"vám připsáno k transakci a budete dostávat výplatu"
+
+#: includes/functions/functions.php:1334
+msgid "Congratulations! You are ready to start to earn extra money with us :)"
+msgstr "Gratulace! Jste připraveni začít vydělávat peníze navíc u nás :)"
+
+# @ default
+#: includes/metaboxes.php:10
+msgid "Media Categories"
+msgstr "Media kategorie"
+
+#: includes/metaboxes.php:14
+msgid "AMAZING Pro Version DEMO"
+msgstr "ÚŽASNÁ Pro verze DEMO"
+
+#: includes/metaboxes.php:15
+msgid "Upgrade to Pro Version"
+msgstr "Upgrade na verzi Pro"
+
+# @ easmedia
+#: includes/metaboxes.php:769
+msgid "Media Options"
+msgstr "Volby Media"
+
+# @ easmedia
+#: includes/metaboxes.php:777
+msgid "Media Type"
+msgstr "Druh Media"
+
+# @ easmedia
+#: includes/metaboxes.php:778
+msgid "Choose the item type."
+msgstr "Vyberte typ položky."
+
+# @ easmedia
+#: includes/metaboxes.php:793
+msgid "Video Options"
+msgstr "Volby videa"
+
+# @ easmedia
+#: includes/metaboxes.php:794
+msgid "Paste video URL to field below."
+msgstr "Vložte adresu URL videa do pole níže."
+
+# @ easmedia
+#: includes/metaboxes.php:802
+msgid "Video URL"
+msgstr "URL videa"
+
+# @ easmedia
+#: includes/metaboxes.php:812
+msgid "Video Size"
+msgstr "Velikost videa"
+
+# @ easmedia
+#: includes/metaboxes.php:813
+msgid "If ON, video size will use the default settings on the control panel."
+msgstr ""
+"Pokud je zapnuto, bude velikost videa používat výchozí nastavení na "
+"ovládacím panelu."
+
+#: includes/metaboxes.php:830
+msgid "Select Multiple Images"
+msgstr "Vybrat více snímků"
+
+#: includes/metaboxes.php:831
+msgid ""
+"Click Add Images button to select image from your Wordpress Media Library."
+msgstr ""
+"Klepněte na tlačítko Přidat tlačítko Obrazy a vyberte obrázek ze svého "
+"Wordpress knihovny médií."
+
+#: includes/metaboxes.php:839
+msgid "<span class=\"gtips\">Tips:</span>"
+msgstr ""
+
+#: includes/metaboxes.php:840
+msgid ""
+"<ul class=\"gtipslist\"><li>Use <b>Ctrl + Click</b> on each image to select "
+"multiple images at once.</li><li>You also can drag and drop images to re-"
+"order.</li><li>Click on image to edit title/subtitle ( <i>Pro Version only</"
+"i> )</li><li class=\"messivideo\" data-yvid=\"https://www.youtube.com/embed/"
+"H1Z3fidyEbE?rel=0\">Tutorial How to Create Gallery</li>\n"
+"<li class=\"messivideo\" data-yvid=\"https://www.youtube.com/embed/"
+"pjHvRoV2Bn8?rel=0\">Tutorial How to Create Album</li></ul>"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:851 includes/metaboxes.php:917
+msgid "Full-size image control"
+msgstr "Obrázek v plné velikosti"
+
+# @ easmedia
+#: includes/metaboxes.php:852 includes/metaboxes.php:918
+msgid ""
+"If ON, image which exceeds the specified size limit will be automatically "
+"resized. You can change image size limit through plugin control panel."
+msgstr ""
+"Pokud je zapnuto, bude obraz, který překročí zadaný limit velikosti "
+"automaticky zmenšen. Můžete změnit velikost obrazu limitu prostřednictvím "
+"panelu plugin ovládání."
+
+#: includes/metaboxes.php:860
+msgid "Use information of each image"
+msgstr "Použít informace o každém snímku"
+
+#: includes/metaboxes.php:861
+msgid ""
+"If ON, each image will use individual title based on Wordpress Media "
+"informations. If OFF, this gallery will use title, sub title and description "
+"from Media Information below."
+msgstr ""
+"Pokud je zapnuto, bude každý snímek používají individuální titul na základě "
+"informací Wordpress Media. Pokud OFF, bude tato galerie používat název, sub "
+"název a popis z mediální informace níže."
+
+# @ easmedia
+#: includes/metaboxes.php:876
+msgid "Audio Options"
+msgstr "Audio volby"
+
+#: includes/metaboxes.php:877
+msgid ""
+"Upload audio or paste audio URL on field below. Is it possible to use audio "
+"external source."
+msgstr ""
+"Nahrávání audio nebo vložte adresu URL zvuku na poli níže. Je možné použít "
+"externí zdroj zvuku."
+
+# @ easmedia
+#: includes/metaboxes.php:885
+msgid "Audio Path"
+msgstr "Audio cesta"
+
+# @ easmedia
+#: includes/metaboxes.php:901
+msgid "Select Image"
+msgstr "Výběr obrázku"
+
+# @ easmedia
+#: includes/metaboxes.php:902
+msgid "You can upload image with supported file types: jpg, jpeg, gif, png."
+msgstr ""
+"Můžete nahrát obrázek s podporovanými typy souborů: JPG, JPEG, GIF, PNG."
+
+# @ easmedia
+#: includes/metaboxes.php:908
+msgid "Image URL"
+msgstr "URL obrázku"
+
+# @ easmedia
+#: includes/metaboxes.php:909
+msgid "Select or upload your image."
+msgstr "Vyberte nebo nahrajte z disku."
+
+#: includes/metaboxes.php:933
+msgid "Media Information"
+msgstr "informace o médiu"
+
+# @ easmedia
+#: includes/metaboxes.php:934
+msgid "Input basic info for this media."
+msgstr "Zadejte základní informace o tomto médiu."
+
+# @ easmedia
+#: includes/metaboxes.php:940
+msgid "Media Title"
+msgstr "Název Media"
+
+# @ easmedia
+#: includes/metaboxes.php:941
+msgid "Enter a media title."
+msgstr "Zadejte název média."
+
+# @ easmedia
+#: includes/metaboxes.php:949
+msgid "Media Subtitle"
+msgstr "Titulky Media"
+
+# @ easmedia
+#: includes/metaboxes.php:950
+msgid "You can use this field for (ex: author, title track, etc.)"
+msgstr "Můžete použít toto pole k (ex: autor, název skladby, apod.)"
+
+#: includes/pages/emg-demo.php:17
+msgid "Check it Out!"
+msgstr "Ověřte si to!"
+
+#: includes/pages/emg-demo.php:23
+msgid "Just Like, Share or Subscribe and Get Free Updates"
+msgstr "Just Like, akcie nebo Přihlásit se a získejte zdarma aktualizace"
+
+#: includes/pages/emg-demo.php:50
+msgid "Video Tutorials"
+msgstr "Video Návody"
+
+#: includes/pages/emg-demo.php:120
+msgid "Share Easy Media Gallery"
+msgstr "Podíl Easy Media Gallery"
+
+#: includes/pages/emg-demo.php:130
+msgid "New Plugin, check it out!"
+msgstr "New Plugin, zkontrolujte si to!"
+
+#: includes/pages/emg-freeplugins.php:164
+#, php-format
+msgid "By %s"
+msgstr "Publikoval %s"
+
+#: includes/pages/emg-freeplugins.php:176
+#, php-format
+msgid "Install %s now"
+msgstr "Nainstalovat %s nyní"
+
+#: includes/pages/emg-freeplugins.php:176
+msgid "Install Now"
+msgstr "Nainstalovat nyní"
+
+#: includes/pages/emg-freeplugins.php:183
+#, php-format
+msgid "Update %s now"
+msgstr "Aktualizovat %s"
+
+#: includes/pages/emg-freeplugins.php:183
+msgid "Update Now"
+msgstr "aktualizovat nyní."
+
+#: includes/pages/emg-freeplugins.php:189
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Nainstalované"
+
+#: includes/pages/emg-freeplugins.php:198
+#, php-format
+msgid "More information about %s"
+msgstr "Více informací o%s"
+
+#: includes/pages/emg-freeplugins.php:198
+msgid "More Details"
+msgstr "Více detailů"
+
+#: includes/pages/emg-freeplugins.php:266
+msgid "Last Updated:"
+msgstr "Naposledy aktualizováno:"
+
+#: includes/pages/emg-freeplugins.php:267
+#, php-format
+msgid "%s ago"
+msgstr "před %s"
+
+#: includes/pages/emg-freeplugins.php:271
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/pages/emg-freeplugins.php:276
+msgid "Untested with your version of WordPress"
+msgstr "Nevyzkoušený s vaší verzí WordPress"
+
+#: includes/pages/emg-freeplugins.php:278
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Nekompatibilní</strong> s vaší verzí WordPress"
+
+#: includes/pages/emg-freeplugins.php:280
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Kompatibilní</strong> s vaší verzí WordPress"
+
+#: includes/pages/emg-pricing.php:7
+msgid "UPGRADE to PRO"
+msgstr "Koupit Pro verzi"
+
+# @ easmedia
+#: includes/pages/emg-pricing.php:37
+msgid "Comparison"
+msgstr "Srovnání"
+
+#: includes/pages/emg-welcome.php:318
+msgid "What's New"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:321
+msgid "Getting Started"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:329
+msgid "Free Plugins"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:333
+msgid "Premium Plugins"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:341
+msgid ""
+"<span class=\"emg-dollar\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra Money</"
+"span>"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:361 includes/pages/emg-welcome.php:472
+#: includes/pages/emg-welcome.php:533 includes/pages/emg-welcome.php:562
+#: includes/pages/emg-welcome.php:593 includes/pages/emg-welcome.php:623
+#: includes/pages/emg-welcome.php:654
+msgid "Welcome to "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:362 includes/pages/emg-welcome.php:445
+#: includes/pages/emg-welcome.php:473 includes/pages/emg-welcome.php:534
+#: includes/pages/emg-welcome.php:563 includes/pages/emg-welcome.php:594
+#: includes/pages/emg-welcome.php:624 includes/pages/emg-welcome.php:655
+msgid "Thank you for installing "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:363 includes/pages/emg-welcome.php:446
+#: includes/pages/emg-welcome.php:474 includes/pages/emg-welcome.php:535
+#: includes/pages/emg-welcome.php:564 includes/pages/emg-welcome.php:595
+#: includes/pages/emg-welcome.php:625 includes/pages/emg-welcome.php:656
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:370
+msgid "New Welcome Page"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:374
+msgid ""
+"Version 1.3.29 introduces a comprehensive welcome page interface. The easy "
+"way to get important informations about this product and other related "
+"plugins."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:376
+msgid ""
+"In this page, you will find four important Tabs named What's New, Getting "
+"Started, Addons, Free Plugins, Premium Plugins and Demo."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:382
+msgid "ADDONS"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:386
+msgid ""
+"Need some Pro version features to be applied in your Free version? What you "
+"have to do just go to <strong>Addons</strong> page and choose any Addons "
+"that you want to install. All listed addons are Premium version."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:392
+msgid "Additional Updates"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:398
+msgid "Language Packs Update"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:399
+msgid ""
+"We've improved Language Packs to compatible with <a href=\"https://translate."
+"wordpress.org/projects/wp-plugins/easy-media-gallery\" target=\"_blank"
+"\">translate.wordpress.org</a> translation system"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:405
+msgid "CSS Clean and Optimization"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:406
+msgid ""
+"We've improved some css class to make your gallery for look fancy and better."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:412
+msgid "Disable Notifications"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:413
+msgid ""
+"In this version you will no longer see some annoying notifications in top of "
+"gallery editor page. Thanks for who suggested it."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:419
+msgid "Improved Some Core Function"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:420
+msgid ""
+" Some functions has been improved to be more robust and fast so you can "
+"generate your gallery/albums only in seconds."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:427
+msgid "View the Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:444
+msgid " Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:451
+msgid "Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:478
+msgid ""
+"There are no complicated instructions for using Easy Media Gallery because "
+"this plugin designed to make all easy. Please watch the following video and "
+"we believe that you will easily to understand it just in minutes :"
+msgstr ""
+"Nejsou žádné složité pokyny pro používání Easy Media Gallery, protože tento "
+"plugin navržen tak, aby vůbec snadné. Podívejte se na následující videa a "
+"věříme, že budete snadno pochopit jen v minutách:"
+
+#: includes/pages/emg-welcome.php:482
+msgid "How to Create Simple Photo Albums"
+msgstr "Jak vytvořit jednoduché fotoalba"
+
+#: includes/pages/emg-welcome.php:484
+msgid "How to Create Simple Gallery"
+msgstr "Jak vytvořit jednoduchý galerijní"
+
+#: includes/pages/emg-welcome.php:486
+msgid "Video Tutorials on Youtube Channel"
+msgstr "Video Návody na Youtube kanálu La Manche"
+
+#: includes/pages/emg-welcome.php:493
+msgid "Need Help?"
+msgstr "Potřebujete pomoc?"
+
+#: includes/pages/emg-welcome.php:497
+msgid "Phenomenal Support"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:498
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"wordpress.org/support/plugin/easy-media-gallery\" target=\"_blank\">support "
+"forums</a>."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:499
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:500
+msgid ""
+"Just upgrade to <a target=\"_blank\" href=\"https://ghozy.link/eqiz9\">Pro "
+"version</a> and you will get Priority Support are there for customers that "
+"need faster and/or more in-depth assistance."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:506
+msgid "Stay Up to Date"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:510
+msgid "Get Notified of Addons Releases"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:511
+msgid "New Addons that make "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:665
+msgid "DEMO ( Video )"
+msgstr "DEMO (Video)"
+
+#: includes/pages/emg-welcome.php:666
+msgid ""
+"This plugin comes with instructional training videos that walk you through "
+"every aspect of setting up your new media gallery. We recommend to following "
+"these videos to create new media. This user manual is only intended to be a "
+"reference guide."
+msgstr ""
+"Tento plugin je dodáván s instruktážních výukových videí, které vás provedou "
+"každým aspektem nastavení nového mediální galerii. Doporučujeme "
+"následujících videí pro vytvoření nového média. Tato uživatelská příručka je "
+"zamýšlen jako referenční příručka pouze."
+
+#: includes/pages/emg-welcome.php:690
+msgid "No valid changelog was found."
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:10
+msgctxt "taxonomy general name"
+msgid "Easy Media Gallery"
+msgstr "Easy Media Galerie"
+
+# @ default
+#: includes/taxonomy.php:11
+msgctxt "taxonomy singular name"
+msgid "Easy Media Gallery"
+msgstr "Easy Media Galerie"
+
+#: includes/taxonomy.php:12
+msgctxt "easy-media-gallery"
+msgid "Add New Category"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:13
+msgid "Add New Category"
+msgstr "Přidejte novou kategorii"
+
+# @ default
+#: includes/taxonomy.php:14
+msgid "Edit Category"
+msgstr "Upravit kategorii"
+
+# @ default
+#: includes/taxonomy.php:15
+msgid "New Category"
+msgstr "Nová kategorie"
+
+# @ default
+#: includes/taxonomy.php:16
+msgid "View Category"
+msgstr "Zobrazit kategorii"
+
+# @ default
+#: includes/taxonomy.php:17
+msgid "Search Category"
+msgstr "Vyhledat kategorii"
+
+# @ default
+#: includes/taxonomy.php:18
+msgid "No Category found"
+msgstr "Žádná kategorie nalezená"
+
+# @ default
+#: includes/taxonomy.php:19
+msgid "No Category found in Trash"
+msgstr "Žádná kategorie nalezená v koši"
+
+# @ easmedia
+#: includes/taxonomy.php:27
+msgid "Emediagallery"
+msgstr "Emediagallery"
+
+# @ default
+#~ msgctxt "post type general name"
+#~ msgid "Easy Media Gallery"
+#~ msgstr "Easy Media Galerie"
+
+# @ default
+#~ msgctxt "post type singular name"
+#~ msgid "Easy Media Gallery"
+#~ msgstr "Easy Media Galerie"
+
+# @ easmedia
+#~ msgid "Easy Media Gallery (Lite)"
+#~ msgstr "Easy Media Gallery (Lite)"
+
+# @ easmedia
+#~ msgid "Documentation"
+#~ msgstr "Dokumentace"
+
+# @ easmedia
+#~ msgid ""
+#~ "This plugin comes with instructional training videos that walk you "
+#~ "through every aspect of setting up your new media gallery. We recommend "
+#~ "following these videos to setup your media gallery. This user manual is "
+#~ "only intended to be a reference guide."
+#~ msgstr ""
+#~ "Tento plugin je dodáván s instruktážních výukových videí, které vás "
+#~ "provedou všemi aspekty zakládání nové galerii obrázků. Doporučujeme "
+#~ "následujících videí k nastavení galerii obrázků. Tento návod k použití je "
+#~ "určen pouze jako referenční příručka."
+
+# @ easmedia
+#~ msgid "Basic Functions"
+#~ msgstr "Základní funkce"
+
+# @ easmedia
+#~ msgid "Troubleshooting (issue for version 1.1.7 and below)"
+#~ msgstr "Odstraňování problémů (vydání verze 1.1.7 a nižší)"
+
+# @ easmedia
+#~ msgid "Get More Features"
+#~ msgstr "Získejte více funkcí"
+
+# @ easmedia
+#~ msgid ""
+#~ "<div class=\"emginfobox\">Upgrade to PRO and you can select Image "
+#~ "Gallery, Grid Gallery, Filterable Media, HTML5 Video/Audio, Google Maps/"
+#~ "Street View, embed from Soundcloud or Reverbnation and also Link to "
+#~ "specific URL. You can learn more and see version comparison <a href="
+#~ "\"edit.php?post_type=easymediagallery&page=comparison\">here</a></"
+#~ "div><br>Select videos, images, gallery or audio files."
+#~ msgstr ""
+#~ "<div class=\"emginfobox\">Aktualizujte na PRO a můžete si vybrat galerie "
+#~ "obrazu, mřížku galerie, odfiltrovatelné Media, HTML5 Video/Audio, Google "
+#~ "Mapy/Street View, vložit z Soundcloud nebo ReverbNation a také odkaz na "
+#~ "konkrétní URL. Můžete se dozvědět více a zjistit, porovnání verzí "
+#~ "odesílání <a href=\"edit.php?post_type=easymediagallery&page=comparison"
+#~ "\"> zde </ a></ div><br> Vyberte videa, obrázky, galerie nebo audio "
+#~ "soubory."
+
+# @ easmedia
+#~ msgid "Upload audio or paste audio URL on field below."
+#~ msgstr "Přidat audio nebo vložte adresu URL zvuku do pole níže."
+
+# @ easmedia
+#~ msgid "Media Informations"
+#~ msgstr "Media informace"
+
+# @ default
+#~ msgctxt "easmedia"
+#~ msgid "Add New Category"
+#~ msgstr "Přidejte novou kategorii"

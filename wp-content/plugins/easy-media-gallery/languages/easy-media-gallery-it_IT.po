@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Media Gallery\n"
+"POT-Creation-Date: 2016-05-03 09:24+0700\n"
+"PO-Revision-Date: 2016-05-03 09:24+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: easy-media-gallery.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: easy-media-gallery.php:220 includes/emg-settings.php:40
+#: includes/functions/functions.php:1142
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: easy-media-gallery.php:241
+msgid "Donate"
+msgstr "Donare"
+
+#: easy-media-gallery.php:242
+msgid "Tutorials"
+msgstr "Tutorial"
+
+#: easy-media-gallery.php:243
+msgid "Rate Us"
+msgstr "Dacci un voto"
+
+#: easy-media-gallery.php:258
+msgctxt "post type general name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+#: easy-media-gallery.php:259
+msgctxt "post type singular name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+#: easy-media-gallery.php:260 includes/functions/functions.php:1120
+msgid "Add New Media"
+msgstr "Aggiungi Media"
+
+#: easy-media-gallery.php:261
+msgid "Easy Media Item"
+msgstr "Easy Media Item"
+
+#: easy-media-gallery.php:262
+msgid "Edit Media"
+msgstr "Modifica Media"
+
+#: easy-media-gallery.php:263
+msgid "New Media"
+msgstr "Nuovi Media"
+
+#: easy-media-gallery.php:264
+msgid "View Media"
+msgstr "Vedi Media"
+
+#: easy-media-gallery.php:265
+msgid "Search Media"
+msgstr "Ricerca Media"
+
+#: easy-media-gallery.php:266
+msgid "No Media Found"
+msgstr "Nessun Supporto Trovato"
+
+#: easy-media-gallery.php:267
+msgid "No Media Found In Trash"
+msgstr "Nessun supporto trovato nel cestino"
+
+#: easy-media-gallery.php:268
+msgid "Parent Media"
+msgstr "Parent Media"
+
+#: easy-media-gallery.php:269 easy-media-gallery.php:277
+msgid "Easy Media"
+msgstr "Easy Media"
+
+#: easy-media-gallery.php:336
+msgctxt "column name"
+msgid "Title"
+msgstr "Titolo"
+
+#: easy-media-gallery.php:337
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: easy-media-gallery.php:338
+msgid "Type"
+msgstr "Tipo"
+
+#: easy-media-gallery.php:339 includes/functions/functions.php:1131
+#: includes/taxonomy.php:20
+msgid "Categories"
+msgstr "Categorie"
+
+#: easy-media-gallery.php:340
+msgid "ID"
+msgstr "ID"
+
+#: easy-media-gallery.php:408
+msgid "None"
+msgstr "Nessuno"
+
+#: easy-media-gallery.php:540 includes/functions/functions.php:1109
+msgid "Overview"
+msgstr "Overview"
+
+#: includes/easywidget.php:8
+msgid "Use this widget to display your media as a widget."
+msgstr ""
+"Utilizzare questo widget per visualizzare i file multimediali come un widget."
+
+#. Plugin Name of the plugin/theme
+#: includes/easywidget.php:11 includes/functions/functions.php:1099
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/emg-notice.php:16
+#, php-format
+msgid ""
+"Earn <span style=\"color: red;\">EXTRA MONEY</span> and get 30&#37; "
+"affiliate share from every sale you make!&nbsp;&nbsp;<a href=\"http://goo.gl/"
+"AZMFid\" target=\"_blank\">JOIN AFFILIATE NOW!</a><span style=\"float: right;"
+"\"><a href=\"%1$s\">Hide Notice</a><span>"
+msgstr ""
+
+#: includes/emg-settings.php:39
+msgid "Easy Media Gallery Settings"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid "N/A"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid " MB"
+msgstr ""
+
+#: includes/functions/functions.php:304
+msgid "Most Used"
+msgstr ""
+
+#: includes/functions/functions.php:328
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+#: includes/functions/functions.php:615 includes/functions/functions.php:629
+#: includes/functions/functions.php:657 includes/functions/functions.php:1153
+msgid "Sorter"
+msgstr "Sorter"
+
+#: includes/functions/functions.php:630
+msgid ""
+"Simply drag the Media up or down and they will be saved in that order. Media "
+"at the top will appear first."
+msgstr ""
+"Trascinare semplicemente il Media verso l'alto o verso il basso e saranno "
+"salvati in quell'ordine. Media nella parte superiore verrà visualizzato per "
+"primi."
+
+#: includes/functions/functions.php:634 includes/functions/functions.php:660
+msgid "Sort Media"
+msgstr "Sort Media"
+
+#: includes/functions/functions.php:661
+#, php-format
+msgid "No items found, why not %screate one%s?\t"
+msgstr ""
+
+#: includes/functions/functions.php:716
+msgid "Easy Media Gallery (Lite) "
+msgstr "Easy Media Gallery (Lite) "
+
+#: includes/functions/functions.php:898
+msgid "<img src=\""
+msgstr ""
+
+#: includes/functions/functions.php:963
+msgid ""
+"We recommend you to enable plugin Auto Update so you will get the latest "
+"features and other important updates of Easy Media Gallery.<br />Click <a "
+"href=\"#\"><strong><span id=\"doautoupdate\">here</span></strong></a> to "
+"enable Auto Update."
+msgstr ""
+"Si consiglia di abilitare il plugin Auto Update così avrete le ultime "
+"caratteristiche e altri aggiornamenti importanti di Easy Media Gallery."
+"<br>Clicca <a href=\"#\"><strong><span id=\"doautoupdate\">qui</span></"
+"strong></a> per attivare l aggiornamento automatico."
+
+#: includes/functions/functions.php:1164 includes/pages/emg-welcome.php:337
+msgid "Demo"
+msgstr "Demo"
+
+#: includes/functions/functions.php:1175
+msgid "Free Install Plugins"
+msgstr "Installa I Plugin"
+
+#: includes/functions/functions.php:1186
+msgid "Premium Plugin"
+msgstr "Premium Plugin"
+
+#: includes/functions/functions.php:1219
+msgid "UPGRADE PRO VERSION"
+msgstr "UPGRADE PRO VERSION"
+
+#: includes/functions/functions.php:1251 includes/pages/emg-addons.php:35
+#: includes/pages/emg-featured.php:25
+msgid ""
+"There was an error retrieving the list from the server. Please try again "
+"later."
+msgstr ""
+"C'era un errore durante il recupero l'elenco dal server. Si prega di "
+"riprovare più tardi."
+
+#: includes/functions/functions.php:1287
+msgid ""
+"Fill your Affiliate Account Email or Payment Email and press Connect button "
+"to start earn extra Money with us!"
+msgstr ""
+"Compila il tuo indirizzo E-mail Account di affiliazione o pagamento E-mail e "
+"premere il pulsante Connetti per avviare guadagnare denaro extra con noi!"
+
+#: includes/functions/functions.php:1303
+msgid "Account Email or Payment Email"
+msgstr "Account di posta elettronica o Email di pagamento"
+
+#: includes/functions/functions.php:1328
+msgid "How does it work?"
+msgstr "Come funziona?"
+
+#: includes/functions/functions.php:1330
+msgid ""
+"After successfully registered with our Affiliate program what you have to do "
+"just :"
+msgstr ""
+"Dopo aver registrato correttamente con il nostro programma di affiliazione "
+"che cosa devi fare solo:"
+
+#: includes/functions/functions.php:1331
+msgid ""
+"Fill your Affiliate Account Email or Payment Email in field above and Hit "
+"Connect button"
+msgstr ""
+"Riempire il tuo Affiliate Account Email o Email di pagamento nel campo sopra "
+"e pulsante Hit Connect"
+
+#: includes/functions/functions.php:1332
+msgid "After connected you will see green connected status"
+msgstr "Dopo collegato verrà visualizzato lo stato connesso verde"
+
+#: includes/functions/functions.php:1333
+msgid ""
+"Check your gallery and you will find your affiliate link in the bottom of "
+"your gallery like in the right side screenshot"
+msgstr ""
+"Controlla tua galleria e troverete il vostro link di affiliazione sul fondo "
+"della tua galleria come nello screenshot a destra"
+
+#: includes/functions/functions.php:1334
+msgid ""
+"Now when individuals follow that link and subsequently make a purchase, you "
+"will be credited for the transaction and you will receive a payout"
+msgstr ""
+"Ora quando gli individui seguono quel link e successivamente fare un "
+"acquisto, ti saranno accreditati per la transazione e riceverai una vincita"
+
+#: includes/functions/functions.php:1335
+msgid "Congratulations! You are ready to start to earn extra money with us :)"
+msgstr ""
+"Complimenti! Siete pronti per iniziare a guadagnare soldi extra con noi :)"
+
+#: includes/metaboxes.php:10
+msgid "Media Categories"
+msgstr "Categorie di Media"
+
+#: includes/metaboxes.php:14
+msgid "AMAZING Pro Version DEMO"
+msgstr "INCREDIBILE Pro versione DEMO"
+
+#: includes/metaboxes.php:15
+msgid "Upgrade to Pro Version"
+msgstr "Upgrade to Pro Version"
+
+#: includes/metaboxes.php:769
+msgid "Media Options"
+msgstr "Opzioni Media"
+
+#: includes/metaboxes.php:777
+msgid "Media Type"
+msgstr "Tipo media"
+
+#: includes/metaboxes.php:778
+msgid "Choose the item type."
+msgstr "Scegli tipo di elemento"
+
+#: includes/metaboxes.php:793
+msgid "Video Options"
+msgstr "Opzioni Video"
+
+#: includes/metaboxes.php:794
+msgid "Paste video URL to field below."
+msgstr "Incollare la URL del video al campo sottostante."
+
+#: includes/metaboxes.php:802
+msgid "Video URL"
+msgstr "URL del video"
+
+#: includes/metaboxes.php:812
+msgid "Video Size"
+msgstr "Dimensione del Video"
+
+#: includes/metaboxes.php:813
+msgid "If ON, video size will use the default settings on the control panel."
+msgstr ""
+"Se, dimensioni del video utilizza le impostazioni predefinite sul pannello "
+"di controllo."
+
+#: includes/metaboxes.php:830
+msgid "Select Multiple Images"
+msgstr "Selezionare più immagini"
+
+#: includes/metaboxes.php:831
+msgid ""
+"Click Add Images button to select image from your Wordpress Media Library."
+msgstr ""
+"Fare clic sul pulsante Aggiungi immagini per selezionare l'immagine nella "
+"vostra libreria multimediale di Wordpress."
+
+#: includes/metaboxes.php:839
+msgid "<span class=\"gtips\">Tips:</span>"
+msgstr ""
+
+#: includes/metaboxes.php:840
+msgid ""
+"<ul class=\"gtipslist\"><li class=\"messivideo\" data-yvid=\"https://www."
+"youtube.com/embed/H1Z3fidyEbE?rel=0\">Tutorial How to Create Gallery</li>\n"
+"<li class=\"messivideo\" data-yvid=\"https://www.youtube.com/embed/"
+"pjHvRoV2Bn8?rel=0\">Tutorial How to Create Album</li><li>Use <b>Ctrl + "
+"Click</b> on each image to select multiple images at once.</li><li>You also "
+"can drag and drop images to re-order.</li><li>Click on image to edit title/"
+"subtitle ( <i>Pro Version only</i> )</li></ul>"
+msgstr ""
+
+#: includes/metaboxes.php:851 includes/metaboxes.php:917
+msgid "Full-size image control"
+msgstr "Controllo full-size image"
+
+#: includes/metaboxes.php:852 includes/metaboxes.php:918
+msgid ""
+"If ON, image which exceeds the specified size limit will be automatically "
+"resized. You can change image size limit through plugin control panel."
+msgstr ""
+"Se, immagine che supera la dimensione massima specificata verrà "
+"automaticamente ridimensionate. È possibile modificare il limite di "
+"dimensione di immagine tramite pannello di controllo del plugin."
+
+#: includes/metaboxes.php:860
+msgid "Use information of each image"
+msgstr "Utilizzare le informazioni di ogni immagine"
+
+#: includes/metaboxes.php:861
+msgid ""
+"If ON, each image will use individual title based on Wordpress Media "
+"informations. If OFF, this gallery will use title, sub title and description "
+"from Media Information below."
+msgstr ""
+"Se, ogni immagine userà il titolo individuale basato su informazioni "
+"Wordpress Media. Se OFF, questa galleria utilizzerà titolo, sub titolo e "
+"descrizione da Media informazioni qui di seguito."
+
+#: includes/metaboxes.php:876
+msgid "Audio Options"
+msgstr "Opzioni Audio"
+
+#: includes/metaboxes.php:877
+msgid ""
+"Upload audio or paste audio URL on field below. Is it possible to use audio "
+"external source."
+msgstr ""
+"Carica audio o incollare URL audio il campo sottostante. È possibile "
+"utilizzare la sorgente audio esterna."
+
+#: includes/metaboxes.php:885
+msgid "Audio Path"
+msgstr "Audio Path"
+
+#: includes/metaboxes.php:901
+msgid "Select Image"
+msgstr "Seleziona Immagine"
+
+#: includes/metaboxes.php:902
+msgid "You can upload image with supported file types: jpg, jpeg, gif, png."
+msgstr ""
+"È possibile caricare immagine con tipi di file supportati: jpg, jpeg, gif, "
+"png."
+
+#: includes/metaboxes.php:908
+msgid "Image URL"
+msgstr "URL Immagine"
+
+#: includes/metaboxes.php:909
+msgid "Select or upload your image."
+msgstr "Selezionare o caricare la tua immagine."
+
+#: includes/metaboxes.php:933
+msgid "Media Information"
+msgstr "Informazioni su file multimediale"
+
+#: includes/metaboxes.php:934
+msgid "Input basic info for this media."
+msgstr "Informazioni di base input per questo media."
+
+#: includes/metaboxes.php:940
+msgid "Media Title"
+msgstr "Titolo di Media"
+
+#: includes/metaboxes.php:941
+msgid "Enter a media title."
+msgstr "Immettere un titolo Media."
+
+#: includes/metaboxes.php:949
+msgid "Media Subtitle"
+msgstr "Sottotitoli dei Media"
+
+#: includes/metaboxes.php:950
+msgid "You can use this field for (ex: author, title track, etc.)"
+msgstr ""
+"È possibile utilizzare questo campo per (ex: autore, titolo brano, ecc.)"
+
+#: includes/pages/emg-demo.php:17
+msgid "Check it Out!"
+msgstr "il check-out!"
+
+#: includes/pages/emg-demo.php:23
+msgid "Just Like, Share or Subscribe and Get Free Updates"
+msgstr "Just Like, Share or Subscribe and Get Free Updates"
+
+#: includes/pages/emg-demo.php:50
+msgid "Video Tutorials"
+msgstr "Lezione Video"
+
+#: includes/pages/emg-demo.php:120
+msgid "Share Easy Media Gallery"
+msgstr "Condivisione Easy Media Gallery"
+
+#: includes/pages/emg-demo.php:130
+msgid "New Plugin, check it out!"
+msgstr "Nuovo Plugin, controllo fuori!"
+
+#: includes/pages/emg-freeplugins.php:164
+#, php-format
+msgid "By %s"
+msgstr "Da %s"
+
+#: includes/pages/emg-freeplugins.php:176
+#, php-format
+msgid "Install %s now"
+msgstr "Installare %s ora"
+
+#: includes/pages/emg-freeplugins.php:176
+msgid "Install Now"
+msgstr "Installa ora"
+
+#: includes/pages/emg-freeplugins.php:183
+#, php-format
+msgid "Update %s now"
+msgstr "Aggiornare %s ora"
+
+#: includes/pages/emg-freeplugins.php:183
+msgid "Update Now"
+msgstr "Aggiorna ora"
+
+#: includes/pages/emg-freeplugins.php:189
+msgid "This plugin is already installed and is up to date"
+msgstr "Questo plugin è già installato ed è fino ad oggi"
+
+#: includes/pages/emg-freeplugins.php:189
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Installato"
+
+#: includes/pages/emg-freeplugins.php:198
+#, php-format
+msgid "More information about %s"
+msgstr "Maggiori informazioni su %s"
+
+#: includes/pages/emg-freeplugins.php:198
+msgid "More Details"
+msgstr "Più dettagli"
+
+#: includes/pages/emg-freeplugins.php:266
+msgid "Last Updated:"
+msgstr "Ultimo aggiornamento:"
+
+#: includes/pages/emg-freeplugins.php:267
+#, php-format
+msgid "%s ago"
+msgstr "%s fà"
+
+#: includes/pages/emg-freeplugins.php:271
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "%s download"
+msgstr[1] "%s downloads"
+
+#: includes/pages/emg-freeplugins.php:276
+msgid "Untested with your version of WordPress"
+msgstr "Non testato con la tua versione di WordPress"
+
+#: includes/pages/emg-freeplugins.php:278
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Incompatibile</strong> con la versione di WordPress"
+
+#: includes/pages/emg-freeplugins.php:280
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Compatibile</strong> con la versione di Wordpress"
+
+#: includes/pages/emg-pricing.php:7
+msgid "UPGRADE to PRO"
+msgstr "UPGRADE to PRO"
+
+#: includes/pages/emg-pricing.php:37
+msgid "Comparison"
+msgstr "Comparazione"
+
+#: includes/pages/emg-welcome.php:318
+msgid "What's New"
+msgstr "Cosa c'è di Nuovo"
+
+#: includes/pages/emg-welcome.php:321
+msgid "Getting Started"
+msgstr "Per Iniziare"
+
+#: includes/pages/emg-welcome.php:329
+msgid "Free Plugins"
+msgstr "Plugin Gratuito"
+
+#: includes/pages/emg-welcome.php:333
+msgid "Premium Plugins"
+msgstr "Plugin Premium"
+
+#: includes/pages/emg-welcome.php:341
+msgid ""
+"<span class=\"emg-dollar\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra Money</"
+"span>"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:361 includes/pages/emg-welcome.php:472
+#: includes/pages/emg-welcome.php:533 includes/pages/emg-welcome.php:562
+#: includes/pages/emg-welcome.php:593 includes/pages/emg-welcome.php:623
+#: includes/pages/emg-welcome.php:654
+msgid "Welcome to "
+msgstr "Benvenuto"
+
+#: includes/pages/emg-welcome.php:362 includes/pages/emg-welcome.php:445
+#: includes/pages/emg-welcome.php:473 includes/pages/emg-welcome.php:534
+#: includes/pages/emg-welcome.php:563 includes/pages/emg-welcome.php:594
+#: includes/pages/emg-welcome.php:624 includes/pages/emg-welcome.php:655
+msgid "Thank you for installing "
+msgstr "Grazie per aver installato"
+
+#: includes/pages/emg-welcome.php:363 includes/pages/emg-welcome.php:446
+#: includes/pages/emg-welcome.php:474 includes/pages/emg-welcome.php:535
+#: includes/pages/emg-welcome.php:564 includes/pages/emg-welcome.php:595
+#: includes/pages/emg-welcome.php:625 includes/pages/emg-welcome.php:656
+#, php-format
+msgid "Version %s"
+msgstr "Versione %s"
+
+#: includes/pages/emg-welcome.php:370
+msgid "New Welcome Page"
+msgstr "Pagina di benvenuto"
+
+#: includes/pages/emg-welcome.php:374
+msgid ""
+"Version 1.3.29 introduces a comprehensive welcome page interface. The easy "
+"way to get important informations about this product and other related "
+"plugins."
+msgstr ""
+"Versione 1.3.29 introduce un interfaccia completa pagina di benvenuto. Il "
+"modo facile per ottenere importanti informazioni su questo prodotto e altri "
+"relativi plugin."
+
+#: includes/pages/emg-welcome.php:376
+msgid ""
+"In this page, you will find four important Tabs named What's New, Getting "
+"Started, Addons, Free Plugins, Premium Plugins and Demo."
+msgstr ""
+"In questa pagina, troverete quattro schede importante denominate novità, "
+"Guida introduttiva, Addons, Free plugin, plugin Premium e Demo."
+
+#: includes/pages/emg-welcome.php:382
+msgid "ADDONS"
+msgstr "Componenti aggiuntivi"
+
+#: includes/pages/emg-welcome.php:386
+msgid ""
+"Need some Pro version features to be applied in your Free version? What you "
+"have to do just go to <strong>Addons</strong> page and choose any Addons "
+"that you want to install. All listed addons are Premium version."
+msgstr ""
+"Bisogno di alcune funzionalità della versione Pro da applicare nella vostra "
+"versione gratuita? Quello che devi semplicemente andare alla pagina di "
+"<strong>Addons</strong> e scegliere qualsiasi Addons che si desidera "
+"installare. Tutti gli addons elencati sono versione Premium."
+
+#: includes/pages/emg-welcome.php:392
+msgid "Additional Updates"
+msgstr "Ulteriori aggiornamenti"
+
+#: includes/pages/emg-welcome.php:398
+msgid "Language Packs Update"
+msgstr "Language Pack aggiornamento"
+
+#: includes/pages/emg-welcome.php:399
+msgid ""
+"We've improved Language Packs to compatible with <a href=\"https://translate."
+"wordpress.org/projects/wp-plugins/easy-media-gallery\" target=\"_blank"
+"\">translate.wordpress.org</a> translation system"
+msgstr ""
+"Abbiamo migliorato i Language Pack per compatibile con sistema di traduzione "
+"di <a href=\"https://translate.wordpress.org/projects/wp-plugins/easy-media-"
+"gallery\" target=\"_blank\">translate.wordpress.org</a>"
+
+#: includes/pages/emg-welcome.php:405
+msgid "CSS Clean and Optimization"
+msgstr "CSS pulito e ottimizzazione"
+
+#: includes/pages/emg-welcome.php:406
+msgid ""
+"We've improved some css class to make your gallery for look fancy and better."
+msgstr ""
+"Abbiamo migliorato alcune classi css per rendere la tua galleria per look "
+"fantasia e meglio."
+
+#: includes/pages/emg-welcome.php:412
+msgid "Disable Notifications"
+msgstr "Disabilita notifiche"
+
+#: includes/pages/emg-welcome.php:413
+msgid ""
+"In this version you will no longer see some annoying notifications in top of "
+"gallery editor page. Thanks for who suggested it."
+msgstr ""
+"In questa versione non è più vedrete alcune fastidiose notifiche nella parte "
+"superiore della pagina editor di raccolta. Grazie per chi lo ha suggerito."
+
+#: includes/pages/emg-welcome.php:419
+msgid "Improved Some Core Function"
+msgstr "Migliorate alcune funzioni di Core"
+
+#: includes/pages/emg-welcome.php:420
+msgid ""
+" Some functions has been improved to be more robust and fast so you can "
+"generate your gallery/albums only in seconds."
+msgstr ""
+"Alcune funzioni è stato migliorato per essere più robusto e veloce modo è "
+"possibile generare la Galleria/album solo in pochi secondi."
+
+#: includes/pages/emg-welcome.php:427
+msgid "View the Full Changelog"
+msgstr "Vedi il Changelog completo"
+
+#: includes/pages/emg-welcome.php:444
+msgid " Changelog"
+msgstr " Changelog"
+
+#: includes/pages/emg-welcome.php:451
+msgid "Full Changelog"
+msgstr "Changelog completo"
+
+#: includes/pages/emg-welcome.php:478
+msgid ""
+"There are no complicated instructions for using Easy Media Gallery because "
+"this plugin designed to make all easy. Please watch the following video and "
+"we believe that you will easily to understand it just in minutes :"
+msgstr ""
+"Non esistono istruzioni complicati per l'utilizzo di Easy Media Gallery "
+"perché questo plugin è progettato per rendere tutto facile. Si prega di "
+"guardare il seguente video e crediamo che si sarà facilmente per "
+"comprenderlo in minuti:"
+
+#: includes/pages/emg-welcome.php:482
+msgid "How to Create Simple Photo Albums"
+msgstr "Come creare album fotografici semplice"
+
+#: includes/pages/emg-welcome.php:484
+msgid "How to Create Simple Gallery"
+msgstr "Come creare semplici Galleria"
+
+#: includes/pages/emg-welcome.php:486
+msgid "Video Tutorials on Youtube Channel"
+msgstr "Video tutorial sul canale Youtube"
+
+#: includes/pages/emg-welcome.php:493
+msgid "Need Help?"
+msgstr "Hai bisogno di aiuto?"
+
+#: includes/pages/emg-welcome.php:497
+msgid "Phenomenal Support"
+msgstr "Supporto Fenomenale"
+
+#: includes/pages/emg-welcome.php:498
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"wordpress.org/support/plugin/easy-media-gallery\" target=\"_blank\">support "
+"forums</a>."
+msgstr ""
+"Facciamo del nostro meglio per fornire il miglior supporto che possibile. Se "
+"si verifica un problema o una domanda, è possibile inviare una domanda nel "
+"<a href=\"https://wordpress.org/support/plugin/easy-media-gallery\" target="
+"\"_blank\">Forum di supporto</a>."
+
+#: includes/pages/emg-welcome.php:499
+msgid "Need Even Faster Support?"
+msgstr "Hai bisogno di aiuto ancora più rapido?"
+
+#: includes/pages/emg-welcome.php:500
+msgid ""
+"Just upgrade to <a target=\"_blank\" href=\"https://ghozy.link/eqiz9\">Pro "
+"version</a> and you will get Priority Support are there for customers that "
+"need faster and/or more in-depth assistance."
+msgstr ""
+"Solo laggiornamento alla <a target=\"_blank\" href=\"https://ghozy.link/"
+"eqiz9\">versione Pro</a> e si otterrà il supporto prioritario ci sono per i "
+"clienti che hanno bisogno di assistenza più veloce eo più approfondita."
+
+#: includes/pages/emg-welcome.php:506
+msgid "Stay Up to Date"
+msgstr "Resta Aggiornato"
+
+#: includes/pages/emg-welcome.php:510
+msgid "Get Notified of Addons Releases"
+msgstr "Ricevi la notifica di Addons Releases"
+
+#: includes/pages/emg-welcome.php:511
+msgid "New Addons that make "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:665
+msgid "DEMO ( Video )"
+msgstr "DEMO (Video)"
+
+#: includes/pages/emg-welcome.php:666
+msgid ""
+"This plugin comes with instructional training videos that walk you through "
+"every aspect of setting up your new media gallery. We recommend to following "
+"these videos to create new media. This user manual is only intended to be a "
+"reference guide."
+msgstr ""
+"Questo plugin è dotato di video di formazione didattico che vi guiderà "
+"attraverso ogni aspetto della creazione di tua nuova galleria. Vi "
+"consigliamo di creare un nuovo supporto per seguendo questi video. Questo "
+"manuale è destinato solo ad essere una guida di riferimento."
+
+#: includes/pages/emg-welcome.php:690
+msgid "No valid changelog was found."
+msgstr "Non è stato trovato changelog valida."
+
+#: includes/taxonomy.php:10
+msgctxt "taxonomy general name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/taxonomy.php:11
+msgctxt "taxonomy singular name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/taxonomy.php:12
+msgctxt "easy-media-gallery"
+msgid "Add New Category"
+msgstr "Aggiungi Nuova Categoria"
+
+#: includes/taxonomy.php:13
+msgid "Add New Category"
+msgstr "Aggiungi Nuova Categoria"
+
+#: includes/taxonomy.php:14
+msgid "Edit Category"
+msgstr "Modifica Categoria"
+
+#: includes/taxonomy.php:15
+msgid "New Category"
+msgstr "Nuova Categoria"
+
+#: includes/taxonomy.php:16
+msgid "View Category"
+msgstr "Visualizza Categoria"
+
+#: includes/taxonomy.php:17
+msgid "Search Category"
+msgstr "Cerca Categoria"
+
+#: includes/taxonomy.php:18
+msgid "No Category found"
+msgstr "Nessuna categoria trovata."
+
+#: includes/taxonomy.php:19
+msgid "No Category found in Trash"
+msgstr "Nessuna categoria trovata nella spazzatura"
+
+#: includes/taxonomy.php:27
+msgid "Emediagallery"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.ghozylab.com/plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy Media Gallery (Lite) - Displaying your gallery, video (MP4, Youtube, "
+"Vimeo) and audio mp3 in elegant and fancy lightbox with very easy. Allows "
+"you to customize all media to get it looking exactly what you want. <a href="
+"\"https://ghozy.link/q65dp\" target=\"_blank\"><strong> Upgrade to Pro "
+"Version Now</strong></a> and get a tons of awesome features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GhozyLab, Inc."
+msgstr ""
+
+#~ msgid "Earn EXTRA MONEY"
+#~ msgstr "Guadagnare Denaro Extra"
+
+#~ msgid ""
+#~ "Just upgrade to <a target=\"_blank\" href=\"http://ghozylab.com/plugins/"
+#~ "easy-media-gallery-pro/pricing/\">Pro version</a> and you will get "
+#~ "Priority Support are there for customers that need faster and/or more in-"
+#~ "depth assistance."
+#~ msgstr ""
+#~ "Solo l aggiornamento alla <a target=\"_blank\" href=\"http://ghozylab.com/"
+#~ "plugins/easy-media-gallery-pro/pricing/\">versione Pro</a> e si otterrà "
+#~ "il supporto prioritario ci sono per i clienti che hanno bisogno di "
+#~ "assistenza più veloce eo più approfondita."
+
+#~ msgid ""
+#~ "We recommend you to enable plugin Auto Update so you'll get the latest "
+#~ "features and other important updates from <strong>"
+#~ msgstr ""
+#~ "Ti consigliamo di abilitare il plugin Auto Update così avrai le ultime "
+#~ "caratteristiche e altri aggiornamenti importanti da<strong>"
+
+#~ msgid ""
+#~ "You need to deactivate JetPack <strong>Photon Module</strong> to make "
+#~ "<strong>"
+#~ msgstr ""
+#~ "È necessario disattivare il JetPack <strong>Photon modulo</strong> per "
+#~ "rendere<strong></strong>"
+
+#~ msgid "Addons"
+#~ msgstr "Addons"

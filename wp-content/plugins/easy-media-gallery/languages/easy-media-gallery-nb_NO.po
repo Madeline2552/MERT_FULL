@@ -1,0 +1,847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Media Gallery v1.2.29\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-03 09:24+0700\n"
+"PO-Revision-Date: 2016-05-03 09:24+0700\n"
+"Last-Translator: GhozyLab <lang@ghozylab.com>\n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ easmedia
+#: easy-media-gallery.php:220 includes/emg-settings.php:40
+#: includes/functions/functions.php:1142
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: easy-media-gallery.php:241
+msgid "Donate"
+msgstr ""
+
+#: easy-media-gallery.php:242
+msgid "Tutorials"
+msgstr ""
+
+#: easy-media-gallery.php:243
+msgid "Rate Us"
+msgstr ""
+
+#: easy-media-gallery.php:258
+msgctxt "post type general name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+#: easy-media-gallery.php:259
+msgctxt "post type singular name"
+msgid "Easy Media Gallery Lite"
+msgstr "Easy Media Gallery Lite"
+
+# @ easmedia
+#: easy-media-gallery.php:260 includes/functions/functions.php:1120
+msgid "Add New Media"
+msgstr "Legg New Media"
+
+# @ easmedia
+#: easy-media-gallery.php:261
+msgid "Easy Media Item"
+msgstr "Easy Media Item"
+
+# @ easmedia
+#: easy-media-gallery.php:262
+msgid "Edit Media"
+msgstr "Rediger Bilde"
+
+# @ easmedia
+#: easy-media-gallery.php:263
+msgid "New Media"
+msgstr "Legg New Media"
+
+# @ easmedia
+#: easy-media-gallery.php:264
+msgid "View Media"
+msgstr "Vis Media"
+
+# @ easmedia
+#: easy-media-gallery.php:265
+msgid "Search Media"
+msgstr "Søk Media"
+
+# @ easmedia
+#: easy-media-gallery.php:266
+msgid "No Media Found"
+msgstr "Legg New Media"
+
+# @ easmedia
+#: easy-media-gallery.php:267
+msgid "No Media Found In Trash"
+msgstr "Ingen medier i papirkurven"
+
+# @ easmedia
+#: easy-media-gallery.php:268
+msgid "Parent Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:269 easy-media-gallery.php:277
+msgid "Easy Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:336
+msgctxt "column name"
+msgid "Title"
+msgstr "Tittel"
+
+# @ easmedia
+#: easy-media-gallery.php:337
+msgid "Thumbnails"
+msgstr "Miniatyrbilder"
+
+# @ easmedia
+#: easy-media-gallery.php:338
+msgid "Type"
+msgstr "Type"
+
+# @ easmedia
+# @ default
+#: easy-media-gallery.php:339 includes/functions/functions.php:1131
+#: includes/taxonomy.php:20
+msgid "Categories"
+msgstr "Kategorier"
+
+# @ easmedia
+#: easy-media-gallery.php:340
+msgid "ID"
+msgstr "ID"
+
+# @ easmedia
+#: easy-media-gallery.php:408
+msgid "None"
+msgstr "Ingen"
+
+#: easy-media-gallery.php:540 includes/functions/functions.php:1109
+msgid "Overview"
+msgstr "Introduksjon"
+
+#: includes/easywidget.php:8
+msgid "Use this widget to display your media as a widget."
+msgstr "Bruk denne widgeten til å vise dine media som en widget."
+
+#: includes/easywidget.php:11 includes/functions/functions.php:1099
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/emg-notice.php:16
+#, php-format
+msgid ""
+"Earn <span style=\"color: red;\">EXTRA MONEY</span> and get 30&#37; affiliate "
+"share from every sale you make!&nbsp;&nbsp;<a href=\"http://goo.gl/AZMFid\" "
+"target=\"_blank\">JOIN AFFILIATE NOW!</a><span style=\"float: right;\"><a "
+"href=\"%1$s\">Hide Notice</a><span>"
+msgstr ""
+
+# @ easmedia
+#: includes/emg-settings.php:39
+msgid "Easy Media Gallery Settings"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid "N/A"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid " MB"
+msgstr ""
+
+# @ default
+#: includes/functions/functions.php:304
+msgid "Most Used"
+msgstr ""
+
+# @ default
+#: includes/functions/functions.php:328
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+# @ easmedia
+#: includes/functions/functions.php:615 includes/functions/functions.php:629
+#: includes/functions/functions.php:657 includes/functions/functions.php:1153
+msgid "Sorter"
+msgstr ""
+
+# @ easmedia
+#: includes/functions/functions.php:630
+msgid ""
+"Simply drag the Media up or down and they will be saved in that order. Media "
+"at the top will appear first."
+msgstr ""
+"Bare dra Media opp eller ned, og de vil bli lagret i den rekkefølgen. Media "
+"øverst vises først."
+
+# @ easmedia
+#: includes/functions/functions.php:634 includes/functions/functions.php:660
+msgid "Sort Media"
+msgstr ""
+
+# @ easmedia
+#: includes/functions/functions.php:661
+#, php-format
+msgid "No items found, why not %screate one%s?\t"
+msgstr ""
+
+#: includes/functions/functions.php:716
+msgid "Easy Media Gallery (Lite) "
+msgstr ""
+
+#: includes/functions/functions.php:898
+msgid "<img src=\""
+msgstr ""
+
+#: includes/functions/functions.php:963
+msgid ""
+"We recommend you to enable plugin Auto Update so you will get the latest "
+"features and other important updates of Easy Media Gallery.<br />Click <a "
+"href=\"#\"><strong><span id=\"doautoupdate\">here</span></strong></a> to "
+"enable Auto Update."
+msgstr ""
+"Vi anbefaler at du aktiverer plugin Automatisk oppdatering slik at du vil få "
+"de nyeste funksjonene og andre viktige oppdateringer av Easy Media Gallery. "
+"<br /> Klikk <a href=\"#\"><strong><span id=\"doautoupdate\">her</span></"
+"strong></a> for å aktivere automatisk oppdatering."
+
+#: includes/functions/functions.php:1164 includes/pages/emg-welcome.php:337
+msgid "Demo"
+msgstr "demonstrere"
+
+#: includes/functions/functions.php:1175
+msgid "Free Install Plugins"
+msgstr "Installer utvidelser"
+
+#: includes/functions/functions.php:1186
+msgid "Premium Plugin"
+msgstr "Premium Plugin"
+
+#: includes/functions/functions.php:1219
+msgid "UPGRADE PRO VERSION"
+msgstr "Oppgrader til Pro"
+
+#: includes/functions/functions.php:1251 includes/pages/emg-addons.php:35
+#: includes/pages/emg-featured.php:25
+msgid ""
+"There was an error retrieving the list from the server. Please try again "
+"later."
+msgstr "Det var en feil ved henting listen fra serveren. Prøv igjen senere."
+
+#: includes/functions/functions.php:1287
+msgid ""
+"Fill your Affiliate Account Email or Payment Email and press Connect button "
+"to start earn extra Money with us!"
+msgstr ""
+"Fyll Affiliate konto E-post eller betaling E-post og trykk på Koble til for å "
+"starte tjene ekstra penger med oss!"
+
+#: includes/functions/functions.php:1303
+msgid "Account Email or Payment Email"
+msgstr "Konto E-post eller betaling E-post"
+
+#: includes/functions/functions.php:1328
+msgid "How does it work?"
+msgstr "Hvordan fungerer det?"
+
+#: includes/functions/functions.php:1330
+msgid ""
+"After successfully registered with our Affiliate program what you have to do "
+"just :"
+msgstr ""
+"Etter vellykket registrert med vår Affiliate program hva du har å gjøre "
+"nettopp:"
+
+#: includes/functions/functions.php:1331
+msgid ""
+"Fill your Affiliate Account Email or Payment Email in field above and Hit "
+"Connect button"
+msgstr ""
+"Fyll Affiliate konto E-post eller betaling E-post i feltet over og Hit "
+"tilkoblingsknappen"
+
+#: includes/functions/functions.php:1332
+msgid "After connected you will see green connected status"
+msgstr "Etter tilkoblet vil du se grønn tilkoblet status"
+
+#: includes/functions/functions.php:1333
+msgid ""
+"Check your gallery and you will find your affiliate link in the bottom of "
+"your gallery like in the right side screenshot"
+msgstr ""
+"Sjekk galleriet, og du vil finne din affiliate link i bunnen av galleriet som "
+"i høyre side skjermbilde"
+
+#: includes/functions/functions.php:1334
+msgid ""
+"Now when individuals follow that link and subsequently make a purchase, you "
+"will be credited for the transaction and you will receive a payout"
+msgstr ""
+"Nå når folk følger denne linken og deretter foreta et kjøp, vil du bli "
+"kreditert for transaksjonen, og du vil motta en utbetaling"
+
+#: includes/functions/functions.php:1335
+msgid "Congratulations! You are ready to start to earn extra money with us :)"
+msgstr "Gratulerer! Du er klar til å begynne å tjene ekstra penger med oss ​​:)"
+
+# @ default
+#: includes/metaboxes.php:10
+msgid "Media Categories"
+msgstr "Media Categories"
+
+#: includes/metaboxes.php:14
+msgid "AMAZING Pro Version DEMO"
+msgstr "AMAZING Pro versjon DEMO"
+
+#: includes/metaboxes.php:15
+msgid "Upgrade to Pro Version"
+msgstr "Oppgrader til Pro-versjon"
+
+# @ easmedia
+#: includes/metaboxes.php:769
+msgid "Media Options"
+msgstr "Medie alternativer"
+
+# @ easmedia
+#: includes/metaboxes.php:777
+msgid "Media Type"
+msgstr "Mediatype"
+
+# @ easmedia
+#: includes/metaboxes.php:778
+msgid "Choose the item type."
+msgstr "Velg elementtypen."
+
+# @ easmedia
+#: includes/metaboxes.php:793
+msgid "Video Options"
+msgstr "Video Options"
+
+# @ easmedia
+#: includes/metaboxes.php:794
+msgid "Paste video URL to field below."
+msgstr "Lim inn video URL til feltet nedenfor."
+
+# @ easmedia
+#: includes/metaboxes.php:802
+msgid "Video URL"
+msgstr "Video lenke"
+
+# @ easmedia
+#: includes/metaboxes.php:812
+msgid "Video Size"
+msgstr "video Size"
+
+# @ easmedia
+#: includes/metaboxes.php:813
+msgid "If ON, video size will use the default settings on the control panel."
+msgstr ""
+"Dersom PÅ, vil bildestørrelsen bruke standardinnstillingene på "
+"kontrollpanelet."
+
+#: includes/metaboxes.php:830
+msgid "Select Multiple Images"
+msgstr "Velg flere bilder"
+
+#: includes/metaboxes.php:831
+msgid ""
+"Click Add Images button to select image from your Wordpress Media Library."
+msgstr ""
+"Klikk på Legg til bilder for å velge bilde fra din Wordpress mediebiblioteket."
+
+#: includes/metaboxes.php:839
+msgid "<span class=\"gtips\">Tips:</span>"
+msgstr ""
+
+#: includes/metaboxes.php:840
+msgid ""
+"<ul class=\"gtipslist\"><li class=\"messivideo\" data-yvid=\"https://www."
+"youtube.com/embed/H1Z3fidyEbE?rel=0\">Tutorial How to Create Gallery</li>\n"
+"<li class=\"messivideo\" data-yvid=\"https://www.youtube.com/embed/"
+"pjHvRoV2Bn8?rel=0\">Tutorial How to Create Album</li><li>Use <b>Ctrl + Click</"
+"b> on each image to select multiple images at once.</li><li>You also can drag "
+"and drop images to re-order.</li><li>Click on image to edit title/subtitle "
+"( <i>Pro Version only</i> )</li></ul>"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:851 includes/metaboxes.php:917
+msgid "Full-size image control"
+msgstr "Full-size bildekontroll"
+
+# @ easmedia
+#: includes/metaboxes.php:852 includes/metaboxes.php:918
+msgid ""
+"If ON, image which exceeds the specified size limit will be automatically "
+"resized. You can change image size limit through plugin control panel."
+msgstr ""
+"Hvis PÅ, vil bildet som overskrider den angitte størrelsen grensen automatisk "
+"skaleres. Du kan endre bildestørrelse grense gjennom plugin kontrollpanelet."
+
+#: includes/metaboxes.php:860
+msgid "Use information of each image"
+msgstr "Bruke informasjon på hvert bilde"
+
+#: includes/metaboxes.php:861
+msgid ""
+"If ON, each image will use individual title based on Wordpress Media "
+"informations. If OFF, this gallery will use title, sub title and description "
+"from Media Information below."
+msgstr ""
+"Dersom PÅ, bil hvert bilde kan du bruke individuelle tittelen basert på "
+"Wordpress Media opplysninger. Hvis OFF, vil dette galleriet bruke tittelen, "
+"sub tittel og beskrivelse fra Media Informasjon nedenfor."
+
+# @ easmedia
+#: includes/metaboxes.php:876
+msgid "Audio Options"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:877
+msgid ""
+"Upload audio or paste audio URL on field below. Is it possible to use audio "
+"external source."
+msgstr ""
+"Last opp lyd eller lim lyd URL på feltet under. Er det mulig å bruke lyd "
+"ekstern kilde."
+
+# @ easmedia
+#: includes/metaboxes.php:885
+msgid "Audio Path"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:901
+msgid "Select Image"
+msgstr "Velg bilde"
+
+# @ easmedia
+#: includes/metaboxes.php:902
+msgid "You can upload image with supported file types: jpg, jpeg, gif, png."
+msgstr "Du kan laste opp bilde med støttede filtyper: jpg, jpeg, gif, png."
+
+# @ easmedia
+#: includes/metaboxes.php:908
+msgid "Image URL"
+msgstr "Bilde-URL"
+
+# @ easmedia
+#: includes/metaboxes.php:909
+msgid "Select or upload your image."
+msgstr "Velg eller last opp ditt bilde."
+
+# @ easmedia
+#: includes/metaboxes.php:933
+msgid "Media Information"
+msgstr "medieinformasjon"
+
+# @ easmedia
+#: includes/metaboxes.php:934
+msgid "Input basic info for this media."
+msgstr "Input grunnleggende info for dette mediet."
+
+# @ easmedia
+#: includes/metaboxes.php:940
+msgid "Media Title"
+msgstr "Media Tittel"
+
+# @ easmedia
+#: includes/metaboxes.php:941
+msgid "Enter a media title."
+msgstr "Skriv inn en media tittel."
+
+# @ easmedia
+#: includes/metaboxes.php:949
+msgid "Media Subtitle"
+msgstr "Media Subtitle"
+
+# @ easmedia
+#: includes/metaboxes.php:950
+msgid "You can use this field for (ex: author, title track, etc.)"
+msgstr "Du kan bruke dette feltet for (ex: forfatter, tittelsporet, etc.)"
+
+#: includes/pages/emg-demo.php:17
+msgid "Check it Out!"
+msgstr "Sjekk det ut"
+
+#: includes/pages/emg-demo.php:23
+msgid "Just Like, Share or Subscribe and Get Free Updates"
+msgstr "Just Like, Share eller Abonner og få gratis oppdateringer"
+
+# @ easmedia
+#: includes/pages/emg-demo.php:50
+msgid "Video Tutorials"
+msgstr ""
+
+# @ easmedia
+#: includes/pages/emg-demo.php:120
+msgid "Share Easy Media Gallery"
+msgstr ""
+
+#: includes/pages/emg-demo.php:130
+msgid "New Plugin, check it out!"
+msgstr "Ny Plugin, sjekk den ut!"
+
+#: includes/pages/emg-freeplugins.php:164
+#, php-format
+msgid "By %s"
+msgstr "Av %s"
+
+#: includes/pages/emg-freeplugins.php:176
+#, php-format
+msgid "Install %s now"
+msgstr "Installer %s nå"
+
+#: includes/pages/emg-freeplugins.php:176
+msgid "Install Now"
+msgstr "Installere nå"
+
+#: includes/pages/emg-freeplugins.php:183
+#, php-format
+msgid "Update %s now"
+msgstr "Oppdater%s nå"
+
+#: includes/pages/emg-freeplugins.php:183
+msgid "Update Now"
+msgstr "Oppdater nå"
+
+#: includes/pages/emg-freeplugins.php:189
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Installert"
+
+#: includes/pages/emg-freeplugins.php:198
+#, php-format
+msgid "More information about %s"
+msgstr "Mer informasjon om %s"
+
+#: includes/pages/emg-freeplugins.php:198
+msgid "More Details"
+msgstr "Flere detaljer"
+
+#: includes/pages/emg-freeplugins.php:266
+msgid "Last Updated:"
+msgstr "sist oppdatert"
+
+#: includes/pages/emg-freeplugins.php:267
+#, php-format
+msgid "%s ago"
+msgstr "%s siden"
+
+#: includes/pages/emg-freeplugins.php:271
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "%s nedlasting"
+msgstr[1] "%s nedlasting"
+
+#: includes/pages/emg-freeplugins.php:276
+msgid "Untested with your version of WordPress"
+msgstr "Utestet med din versjon av WordPress"
+
+#: includes/pages/emg-freeplugins.php:278
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Uforenlig</strong> med din versjon av WordPress"
+
+#: includes/pages/emg-freeplugins.php:280
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Kompatibelt</strong> med din versjon av WordPress"
+
+# @ easmedia
+#: includes/pages/emg-pricing.php:7
+msgid "UPGRADE to PRO"
+msgstr "Oppgrader til PRO"
+
+# @ easmedia
+#: includes/pages/emg-pricing.php:37
+msgid "Comparison"
+msgstr "Sammenligning"
+
+#: includes/pages/emg-welcome.php:318
+msgid "What's New"
+msgstr "Hva er nytt"
+
+#: includes/pages/emg-welcome.php:321
+msgid "Getting Started"
+msgstr "Kom i gang"
+
+#: includes/pages/emg-welcome.php:329
+msgid "Free Plugins"
+msgstr "Gratis Utvidelser"
+
+#: includes/pages/emg-welcome.php:333
+msgid "Premium Plugins"
+msgstr "Premium Plugins"
+
+#: includes/pages/emg-welcome.php:341
+msgid ""
+"<span class=\"emg-dollar\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra Money</"
+"span>"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:361 includes/pages/emg-welcome.php:472
+#: includes/pages/emg-welcome.php:533 includes/pages/emg-welcome.php:562
+#: includes/pages/emg-welcome.php:593 includes/pages/emg-welcome.php:623
+#: includes/pages/emg-welcome.php:654
+msgid "Welcome to "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:362 includes/pages/emg-welcome.php:445
+#: includes/pages/emg-welcome.php:473 includes/pages/emg-welcome.php:534
+#: includes/pages/emg-welcome.php:563 includes/pages/emg-welcome.php:594
+#: includes/pages/emg-welcome.php:624 includes/pages/emg-welcome.php:655
+msgid "Thank you for installing "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:363 includes/pages/emg-welcome.php:446
+#: includes/pages/emg-welcome.php:474 includes/pages/emg-welcome.php:535
+#: includes/pages/emg-welcome.php:564 includes/pages/emg-welcome.php:595
+#: includes/pages/emg-welcome.php:625 includes/pages/emg-welcome.php:656
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:370
+msgid "New Welcome Page"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:374
+msgid ""
+"Version 1.3.29 introduces a comprehensive welcome page interface. The easy "
+"way to get important informations about this product and other related "
+"plugins."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:376
+msgid ""
+"In this page, you will find four important Tabs named What's New, Getting "
+"Started, Addons, Free Plugins, Premium Plugins and Demo."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:382
+msgid "ADDONS"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:386
+msgid ""
+"Need some Pro version features to be applied in your Free version? What you "
+"have to do just go to <strong>Addons</strong> page and choose any Addons that "
+"you want to install. All listed addons are Premium version."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:392
+msgid "Additional Updates"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:398
+msgid "Language Packs Update"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:399
+msgid ""
+"We've improved Language Packs to compatible with <a href=\"https://translate."
+"wordpress.org/projects/wp-plugins/easy-media-gallery\" target=\"_blank"
+"\">translate.wordpress.org</a> translation system"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:405
+msgid "CSS Clean and Optimization"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:406
+msgid ""
+"We've improved some css class to make your gallery for look fancy and better."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:412
+msgid "Disable Notifications"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:413
+msgid ""
+"In this version you will no longer see some annoying notifications in top of "
+"gallery editor page. Thanks for who suggested it."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:419
+msgid "Improved Some Core Function"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:420
+msgid ""
+" Some functions has been improved to be more robust and fast so you can "
+"generate your gallery/albums only in seconds."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:427
+msgid "View the Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:444
+msgid " Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:451
+msgid "Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:478
+msgid ""
+"There are no complicated instructions for using Easy Media Gallery because "
+"this plugin designed to make all easy. Please watch the following video and "
+"we believe that you will easily to understand it just in minutes :"
+msgstr ""
+"Det er ingen kompliserte instruksjoner for hvordan du bruker Easy Media "
+"Gallery fordi denne plugin utviklet for å gjøre alt enkelt. Vennligst se "
+"videoen, og vi tror at du vil lett å forstå det bare i minutter:"
+
+#: includes/pages/emg-welcome.php:482
+msgid "How to Create Simple Photo Albums"
+msgstr "Hvordan lage enkle Fotoalbum"
+
+#: includes/pages/emg-welcome.php:484
+msgid "How to Create Simple Gallery"
+msgstr "Hvordan lage enkle Gallery"
+
+#: includes/pages/emg-welcome.php:486
+msgid "Video Tutorials on Youtube Channel"
+msgstr "Video tutorials på Youtube Channel"
+
+#: includes/pages/emg-welcome.php:493
+msgid "Need Help?"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:497
+msgid "Phenomenal Support"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:498
+msgid ""
+"We do our best to provide the best support we can. If you encounter a problem "
+"or have a question, post a question in the <a href=\"https://wordpress.org/"
+"support/plugin/easy-media-gallery\" target=\"_blank\">support forums</a>."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:499
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:500
+msgid ""
+"Just upgrade to <a target=\"_blank\" href=\"https://ghozy.link/eqiz9\">Pro "
+"version</a> and you will get Priority Support are there for customers that "
+"need faster and/or more in-depth assistance."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:506
+msgid "Stay Up to Date"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:510
+msgid "Get Notified of Addons Releases"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:511
+msgid "New Addons that make "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:665
+msgid "DEMO ( Video )"
+msgstr "DEMO (Video)"
+
+#: includes/pages/emg-welcome.php:666
+msgid ""
+"This plugin comes with instructional training videos that walk you through "
+"every aspect of setting up your new media gallery. We recommend to following "
+"these videos to create new media. This user manual is only intended to be a "
+"reference guide."
+msgstr ""
+"Dette programtillegget kommer med instruksjonsopplæringsvideoer som du "
+"gjennom alle aspekter ved å sette opp den nye mediegalleriet. Vi anbefaler å "
+"følge disse videoene for å skape nye medier. Denne bruksanvisningen er kun "
+"ment å være en referanse guide."
+
+#: includes/pages/emg-welcome.php:690
+msgid "No valid changelog was found."
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:10
+msgctxt "taxonomy general name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:11
+msgctxt "taxonomy singular name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/taxonomy.php:12
+msgctxt "easy-media-gallery"
+msgid "Add New Category"
+msgstr "Ny kategory"
+
+# @ default
+#: includes/taxonomy.php:13
+msgid "Add New Category"
+msgstr "Ny kategory"
+
+# @ default
+#: includes/taxonomy.php:14
+msgid "Edit Category"
+msgstr "Redigér kategori"
+
+# @ default
+#: includes/taxonomy.php:15
+msgid "New Category"
+msgstr "Ny kategori"
+
+# @ default
+#: includes/taxonomy.php:16
+msgid "View Category"
+msgstr "Vis kategori"
+
+# @ default
+#: includes/taxonomy.php:17
+msgid "Search Category"
+msgstr "﻿Søk i kategori"
+
+# @ default
+#: includes/taxonomy.php:18
+msgid "No Category found"
+msgstr "Ingen Kategori funnet"
+
+# @ default
+#: includes/taxonomy.php:19
+msgid "No Category found in Trash"
+msgstr "Nei Kategori funnet i papirkurven"
+
+# @ easmedia
+#: includes/taxonomy.php:27
+msgid "Emediagallery"
+msgstr ""
+
+#~ msgid "Addons"
+#~ msgstr "Tilleggstjenester"
+
+# @ easmedia
+#~ msgid "Documentation"
+#~ msgstr "Dokumentasjon"

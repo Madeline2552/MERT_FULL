@@ -1,0 +1,808 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Media Gallery v1.2.13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-03 09:19+0700\n"
+"PO-Revision-Date: 2016-05-03 09:23+0700\n"
+"Last-Translator: GhozyLab <lang@ghozylab.com>\n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;"
+"_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ easmedia
+#: easy-media-gallery.php:220 includes/emg-settings.php:40
+#: includes/functions/functions.php:1142
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: easy-media-gallery.php:241
+msgid "Donate"
+msgstr "दान करना"
+
+#: easy-media-gallery.php:242
+msgid "Tutorials"
+msgstr "ट्यूटोरियल"
+
+#: easy-media-gallery.php:243
+msgid "Rate Us"
+msgstr "हमें रेटिंग दें"
+
+#: easy-media-gallery.php:258
+msgctxt "post type general name"
+msgid "Easy Media Gallery Lite"
+msgstr ""
+
+#: easy-media-gallery.php:259
+msgctxt "post type singular name"
+msgid "Easy Media Gallery Lite"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:260 includes/functions/functions.php:1120
+msgid "Add New Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:261
+msgid "Easy Media Item"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:262
+msgid "Edit Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:263
+msgid "New Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:264
+msgid "View Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:265
+msgid "Search Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:266
+msgid "No Media Found"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:267
+msgid "No Media Found In Trash"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:268
+msgid "Parent Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:269 easy-media-gallery.php:277
+msgid "Easy Media"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:336
+msgctxt "column name"
+msgid "Title"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:337
+msgid "Thumbnails"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:338
+msgid "Type"
+msgstr ""
+
+# @ easmedia
+# @ default
+#: easy-media-gallery.php:339 includes/functions/functions.php:1131
+#: includes/taxonomy.php:20
+msgid "Categories"
+msgstr "कैटेगरियां"
+
+# @ easmedia
+#: easy-media-gallery.php:340
+msgid "ID"
+msgstr ""
+
+# @ easmedia
+#: easy-media-gallery.php:408
+msgid "None"
+msgstr ""
+
+#: easy-media-gallery.php:540 includes/functions/functions.php:1109
+msgid "Overview"
+msgstr ""
+
+#: includes/easywidget.php:8
+msgid "Use this widget to display your media as a widget."
+msgstr ""
+
+#: includes/easywidget.php:11 includes/functions/functions.php:1099
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/emg-notice.php:16
+#, php-format
+msgid ""
+"Earn <span style=\"color: red;\">EXTRA MONEY</span> and get 30&#37; affiliate share "
+"from every sale you make!&nbsp;&nbsp;<a href=\"http://goo.gl/AZMFid\" target=\"_blank"
+"\">JOIN AFFILIATE NOW!</a><span style=\"float: right;\"><a href=\"%1$s\">Hide "
+"Notice</a><span>"
+msgstr ""
+
+# @ easmedia
+#: includes/emg-settings.php:39
+msgid "Easy Media Gallery Settings"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid "N/A"
+msgstr ""
+
+#: includes/functions/functions.php:73
+msgid " MB"
+msgstr ""
+
+# @ default
+#: includes/functions/functions.php:304
+msgid "Most Used"
+msgstr ""
+
+# @ default
+#: includes/functions/functions.php:328
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+# @ easmedia
+#: includes/functions/functions.php:615 includes/functions/functions.php:629
+#: includes/functions/functions.php:657 includes/functions/functions.php:1153
+msgid "Sorter"
+msgstr "सॉर्टर"
+
+# @ easmedia
+#: includes/functions/functions.php:630
+msgid ""
+"Simply drag the Media up or down and they will be saved in that order. Media at the "
+"top will appear first."
+msgstr ""
+
+# @ easmedia
+#: includes/functions/functions.php:634 includes/functions/functions.php:660
+msgid "Sort Media"
+msgstr ""
+
+# @ easmedia
+#: includes/functions/functions.php:661
+#, php-format
+msgid "No items found, why not %screate one%s?\t"
+msgstr ""
+
+#: includes/functions/functions.php:716
+msgid "Easy Media Gallery (Lite) "
+msgstr ""
+
+#: includes/functions/functions.php:898
+msgid "<img src=\""
+msgstr ""
+
+#: includes/functions/functions.php:963
+msgid ""
+"We recommend you to enable plugin Auto Update so you will get the latest features "
+"and other important updates of Easy Media Gallery.<br />Click <a href=\"#"
+"\"><strong><span id=\"doautoupdate\">here</span></strong></a> to enable Auto Update."
+msgstr ""
+"हम अनुशंसा करते हैं आप तो आप नवीनतम सुविधाओं और आसान मीडिया गैलरी के अन्य महत्वपूर्ण अद्यतन मिल "
+"जाएगा प्लगइन स्वत: अद्यतन को सक्षम करने के लिए।<br>क्लिक करें स्वत: अद्यतन को सक्षम करने के लिए <a "
+"href=\"#\"><strong><span id=\"doautoupdate\">यहाँ</span></strong></a> ।"
+
+#: includes/functions/functions.php:1164 includes/pages/emg-welcome.php:337
+msgid "Demo"
+msgstr "डेमो"
+
+#: includes/functions/functions.php:1175
+msgid "Free Install Plugins"
+msgstr "नि: शुल्क प्लग इन्स"
+
+#: includes/functions/functions.php:1186
+msgid "Premium Plugin"
+msgstr "प्रीमियम प्लगइन"
+
+#: includes/functions/functions.php:1219
+msgid "UPGRADE PRO VERSION"
+msgstr "प्रो संस्करण में नवीनीकरण"
+
+#: includes/functions/functions.php:1251 includes/pages/emg-addons.php:35
+#: includes/pages/emg-featured.php:25
+msgid "There was an error retrieving the list from the server. Please try again later."
+msgstr "सर्वर से सूची लाते समय कोई त्रुटि थी। कृपया बाद में पुन: प्रयास करें।"
+
+#: includes/functions/functions.php:1287
+msgid ""
+"Fill your Affiliate Account Email or Payment Email and press Connect button to start "
+"earn extra Money with us!"
+msgstr ""
+
+#: includes/functions/functions.php:1303
+msgid "Account Email or Payment Email"
+msgstr ""
+
+#: includes/functions/functions.php:1328
+msgid "How does it work?"
+msgstr ""
+
+#: includes/functions/functions.php:1330
+msgid ""
+"After successfully registered with our Affiliate program what you have to do just :"
+msgstr ""
+
+#: includes/functions/functions.php:1331
+msgid ""
+"Fill your Affiliate Account Email or Payment Email in field above and Hit Connect "
+"button"
+msgstr ""
+
+#: includes/functions/functions.php:1332
+msgid "After connected you will see green connected status"
+msgstr ""
+
+#: includes/functions/functions.php:1333
+msgid ""
+"Check your gallery and you will find your affiliate link in the bottom of your "
+"gallery like in the right side screenshot"
+msgstr ""
+
+#: includes/functions/functions.php:1334
+msgid ""
+"Now when individuals follow that link and subsequently make a purchase, you will be "
+"credited for the transaction and you will receive a payout"
+msgstr ""
+
+#: includes/functions/functions.php:1335
+msgid "Congratulations! You are ready to start to earn extra money with us :)"
+msgstr ""
+
+#: includes/metaboxes.php:10
+msgid "Media Categories"
+msgstr ""
+
+#: includes/metaboxes.php:14
+msgid "AMAZING Pro Version DEMO"
+msgstr "अद्भुत प्रो संस्करण डेमो"
+
+#: includes/metaboxes.php:15
+msgid "Upgrade to Pro Version"
+msgstr "नवीनीकरण करने के लिए प्रो संस्करण"
+
+# @ easmedia
+#: includes/metaboxes.php:769
+msgid "Media Options"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:777
+msgid "Media Type"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:778
+msgid "Choose the item type."
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:793
+msgid "Video Options"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:794
+msgid "Paste video URL to field below."
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:802
+msgid "Video URL"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:812
+msgid "Video Size"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:813
+msgid "If ON, video size will use the default settings on the control panel."
+msgstr ""
+
+#: includes/metaboxes.php:830
+msgid "Select Multiple Images"
+msgstr ""
+
+#: includes/metaboxes.php:831
+msgid "Click Add Images button to select image from your Wordpress Media Library."
+msgstr ""
+
+#: includes/metaboxes.php:839
+msgid "<span class=\"gtips\">Tips:</span>"
+msgstr ""
+
+#: includes/metaboxes.php:840
+msgid ""
+"<ul class=\"gtipslist\"><li class=\"messivideo\" data-yvid=\"https://www.youtube.com/"
+"embed/H1Z3fidyEbE?rel=0\">Tutorial How to Create Gallery</li>\n"
+"<li class=\"messivideo\" data-yvid=\"https://www.youtube.com/embed/pjHvRoV2Bn8?"
+"rel=0\">Tutorial How to Create Album</li><li>Use <b>Ctrl + Click</b> on each image "
+"to select multiple images at once.</li><li>You also can drag and drop images to re-"
+"order.</li><li>Click on image to edit title/subtitle ( <i>Pro Version only</i> )</"
+"li></ul>"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:851 includes/metaboxes.php:917
+msgid "Full-size image control"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:852 includes/metaboxes.php:918
+msgid ""
+"If ON, image which exceeds the specified size limit will be automatically resized. "
+"You can change image size limit through plugin control panel."
+msgstr ""
+
+#: includes/metaboxes.php:860
+msgid "Use information of each image"
+msgstr ""
+
+#: includes/metaboxes.php:861
+msgid ""
+"If ON, each image will use individual title based on Wordpress Media informations. "
+"If OFF, this gallery will use title, sub title and description from Media "
+"Information below."
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:876
+msgid "Audio Options"
+msgstr ""
+
+#: includes/metaboxes.php:877
+msgid ""
+"Upload audio or paste audio URL on field below. Is it possible to use audio external "
+"source."
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:885
+msgid "Audio Path"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:901
+msgid "Select Image"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:902
+msgid "You can upload image with supported file types: jpg, jpeg, gif, png."
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:908
+msgid "Image URL"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:909
+msgid "Select or upload your image."
+msgstr ""
+
+#: includes/metaboxes.php:933
+msgid "Media Information"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:934
+msgid "Input basic info for this media."
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:940
+msgid "Media Title"
+msgstr ""
+
+# @ easmedia
+#: includes/metaboxes.php:941
+msgid "Enter a media title."
+msgstr ""
+
+#: includes/metaboxes.php:949
+msgid "Media Subtitle"
+msgstr ""
+
+#: includes/metaboxes.php:950
+msgid "You can use this field for (ex: author, title track, etc.)"
+msgstr ""
+
+#: includes/pages/emg-demo.php:17
+msgid "Check it Out!"
+msgstr ""
+
+#: includes/pages/emg-demo.php:23
+msgid "Just Like, Share or Subscribe and Get Free Updates"
+msgstr ""
+
+#: includes/pages/emg-demo.php:50
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/pages/emg-demo.php:120
+msgid "Share Easy Media Gallery"
+msgstr ""
+
+#: includes/pages/emg-demo.php:130
+msgid "New Plugin, check it out!"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:164
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:176
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:176
+msgid "Install Now"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:183
+#, php-format
+msgid "Update %s now"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:183
+msgid "Update Now"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:189
+msgctxt "plugin"
+msgid "Installed"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:198
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:198
+msgid "More Details"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:266
+msgid "Last Updated:"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:267
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:271
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/pages/emg-freeplugins.php:276
+msgid "Untested with your version of WordPress"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:278
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr ""
+
+#: includes/pages/emg-freeplugins.php:280
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr ""
+
+#: includes/pages/emg-pricing.php:7
+msgid "UPGRADE to PRO"
+msgstr "प्रो करने के लिए नवीनीकरण"
+
+# @ easmedia
+#: includes/pages/emg-pricing.php:37
+msgid "Comparison"
+msgstr "तुलना"
+
+#: includes/pages/emg-welcome.php:318
+msgid "What's New"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:321
+msgid "Getting Started"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:329
+msgid "Free Plugins"
+msgstr "नि: शुल्क प्लग इन्स"
+
+#: includes/pages/emg-welcome.php:333
+msgid "Premium Plugins"
+msgstr "प्रीमियम प्लगइन्स"
+
+#: includes/pages/emg-welcome.php:341
+msgid ""
+"<span class=\"emg-dollar\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra Money</span>"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:361 includes/pages/emg-welcome.php:472
+#: includes/pages/emg-welcome.php:533 includes/pages/emg-welcome.php:562
+#: includes/pages/emg-welcome.php:593 includes/pages/emg-welcome.php:623
+#: includes/pages/emg-welcome.php:654
+msgid "Welcome to "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:362 includes/pages/emg-welcome.php:445
+#: includes/pages/emg-welcome.php:473 includes/pages/emg-welcome.php:534
+#: includes/pages/emg-welcome.php:563 includes/pages/emg-welcome.php:594
+#: includes/pages/emg-welcome.php:624 includes/pages/emg-welcome.php:655
+msgid "Thank you for installing "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:363 includes/pages/emg-welcome.php:446
+#: includes/pages/emg-welcome.php:474 includes/pages/emg-welcome.php:535
+#: includes/pages/emg-welcome.php:564 includes/pages/emg-welcome.php:595
+#: includes/pages/emg-welcome.php:625 includes/pages/emg-welcome.php:656
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:370
+msgid "New Welcome Page"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:374
+msgid ""
+"Version 1.3.29 introduces a comprehensive welcome page interface. The easy way to "
+"get important informations about this product and other related plugins."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:376
+msgid ""
+"In this page, you will find four important Tabs named What's New, Getting Started, "
+"Addons, Free Plugins, Premium Plugins and Demo."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:382
+msgid "ADDONS"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:386
+msgid ""
+"Need some Pro version features to be applied in your Free version? What you have to "
+"do just go to <strong>Addons</strong> page and choose any Addons that you want to "
+"install. All listed addons are Premium version."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:392
+msgid "Additional Updates"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:398
+msgid "Language Packs Update"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:399
+msgid ""
+"We've improved Language Packs to compatible with <a href=\"https://translate."
+"wordpress.org/projects/wp-plugins/easy-media-gallery\" target=\"_blank\">translate."
+"wordpress.org</a> translation system"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:405
+msgid "CSS Clean and Optimization"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:406
+msgid "We've improved some css class to make your gallery for look fancy and better."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:412
+msgid "Disable Notifications"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:413
+msgid ""
+"In this version you will no longer see some annoying notifications in top of gallery "
+"editor page. Thanks for who suggested it."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:419
+msgid "Improved Some Core Function"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:420
+msgid ""
+" Some functions has been improved to be more robust and fast so you can generate "
+"your gallery/albums only in seconds."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:427
+msgid "View the Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:444
+msgid " Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:451
+msgid "Full Changelog"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:478
+msgid ""
+"There are no complicated instructions for using Easy Media Gallery because this "
+"plugin designed to make all easy. Please watch the following video and we believe "
+"that you will easily to understand it just in minutes :"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:482
+msgid "How to Create Simple Photo Albums"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:484
+msgid "How to Create Simple Gallery"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:486
+msgid "Video Tutorials on Youtube Channel"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:493
+msgid "Need Help?"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:497
+msgid "Phenomenal Support"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:498
+msgid ""
+"We do our best to provide the best support we can. If you encounter a problem or "
+"have a question, post a question in the <a href=\"https://wordpress.org/support/"
+"plugin/easy-media-gallery\" target=\"_blank\">support forums</a>."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:499
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:500
+msgid ""
+"Just upgrade to <a target=\"_blank\" href=\"https://ghozy.link/eqiz9\">Pro version</"
+"a> and you will get Priority Support are there for customers that need faster and/or "
+"more in-depth assistance."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:506
+msgid "Stay Up to Date"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:510
+msgid "Get Notified of Addons Releases"
+msgstr ""
+
+#: includes/pages/emg-welcome.php:511
+msgid "New Addons that make "
+msgstr ""
+
+#: includes/pages/emg-welcome.php:665
+msgid "DEMO ( Video )"
+msgstr "डेमो (वीडियो)"
+
+#: includes/pages/emg-welcome.php:666
+msgid ""
+"This plugin comes with instructional training videos that walk you through every "
+"aspect of setting up your new media gallery. We recommend to following these videos "
+"to create new media. This user manual is only intended to be a reference guide."
+msgstr ""
+
+#: includes/pages/emg-welcome.php:690
+msgid "No valid changelog was found."
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:10
+msgctxt "taxonomy general name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:11
+msgctxt "taxonomy singular name"
+msgid "Easy Media Gallery"
+msgstr ""
+
+#: includes/taxonomy.php:12
+msgctxt "easy-media-gallery"
+msgid "Add New Category"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:13
+msgid "Add New Category"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:14
+msgid "Edit Category"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:15
+msgid "New Category"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:16
+msgid "View Category"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:17
+msgid "Search Category"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:18
+msgid "No Category found"
+msgstr ""
+
+# @ default
+#: includes/taxonomy.php:19
+msgid "No Category found in Trash"
+msgstr ""
+
+# @ easmedia
+#: includes/taxonomy.php:27
+msgid "Emediagallery"
+msgstr ""
+
+# @ easmedia
+#~ msgid ""
+#~ "<div class=\"emginfobox\">Upgrade to PRO and you can select Image Gallery, Grid "
+#~ "Gallery, Filterable Media, HTML5 Video/Audio, Google Maps/Street View, embed from "
+#~ "Soundcloud or Reverbnation and also Link to specific URL. You can learn more and "
+#~ "see version comparison <a href=\"edit.php?"
+#~ "post_type=easymediagallery&page=comparison\">here</a></div><br>Select videos, "
+#~ "images, gallery or audio files."
+#~ msgstr ""
+#~ "<div class=\"emginfobox\">प्रो और आप फोटो, Soundcloud या Reverbnation से एम्बेड ग्रिड "
+#~ "गैलरी, फिल्टर मीडिया, एचटीएमएल 5 ऑडियो / वीडियो, गूगल मैप्स / सड़क दृश्य, चयन और भी "
+#~ "विशिष्ट यूआरएल के लिए लिंक कर सकते हैं उन्नत बनाने के लिए. आप और अधिक जानने के लिए और संस्करण "
+#~ "तुलना देख सकते हैं <a href=\"edit.php?post_type=easymediagallery&page=comparison"
+#~ "\">यहां</a></div><br>Select videos, images, gallery or audio files."
